@@ -1,0 +1,7 @@
+extends: existence
+message: "Avoid AI writing pattern: 'This isn't X. It's Y.' — rephrase to sound less formulaic."
+level: warning
+tokens:
+  - 'This isn''t \w+\. It''s'
+  - 'This is not \w+\. It''s'
+  - 'This isn''t \w+—it''s'

@@ -1,0 +1,10 @@
+extends: existence
+message: "Avoid starting sentences with '%s' — get to the point directly."
+level: warning
+scope: sentence
+tokens:
+  - '^Here''s what'
+  - '^Here''s where'
+  - '^Here''s the'
+  - '^Here''s how'
+  - '^Here''s why'
