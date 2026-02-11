@@ -1,0 +1,7 @@
+extends: existence
+message: "Found '%s' — use proper em-dash (—) or en-dash (–) instead of hyphens, and be consistent."
+level: suggestion
+scope: sentence
+tokens:
+  - ' -- '
+  - ' - '
