@@ -1,7 +1,7 @@
 extends: existence
-message: "Found '%s' — use proper em-dash (—) or en-dash (–) instead of hyphens, and be consistent."
-level: suggestion
+message: "Found '%s' — replace with space-dash-space ( - ). No em-dashes or en-dashes."
+level: error
 scope: sentence
 tokens:
-  - ' -- '
-  - ' - '
+  - '—'
+  - '–'
