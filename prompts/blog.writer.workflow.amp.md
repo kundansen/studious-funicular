@@ -29,7 +29,7 @@ blogs/<blog-slug>/
 ├── <blog-name>.md              # Main draft (rename from draft.md when finalizing)
 └── blog_data/
     ├── research_ledger.json    # Crash-resilient research checkpoint
-    ├── references.json         # Verified citations
+    ├── references.json         # Verified citations (also feeds Further Reading)
     └── hero_prompt.yaml        # Sumi-e image prompt
 ```
 
@@ -212,6 +212,38 @@ Structure:
 
 Keep under 200 words. Less preachy, more curious.
 
+### Further Reading (End-of-Blog)
+**Every blog must end with a Further Reading paragraph.** This is a consistent signature element.
+
+**Format:**
+- Placed after the blog's final line, preceded by a horizontal rule (`---`)
+- A single italicized paragraph (wrapped in `*...*`)
+- Starts with `*Further reading:`
+- Weaves all key sources into a flowing narrative — not a bulleted list
+- Each source gets a brief contextual note: what it is, when it was published, and why it matters to the blog's argument
+- Book titles are italicized within the italic block (use nested `*` or mention by name naturally)
+- Tone: informational and conversational, like a well-read friend pointing you to their shelf
+- Draw from `blog_data/references.json` and any other sources cited in the draft
+
+**Example (from "AI Slop: The New Broken Windows"):**
+```
+---
+
+*Further reading: The original broken windows article by Wilson and Kelling
+appeared in The Atlantic in March 1982. The Pragmatic Programmer by Hunt and
+Thomas was first published in 1999, with a twentieth anniversary edition in
+2019. Malcolm Gladwell popularized the theory in The Tipping Point (2000) and
+later revisited it in his Revisionist History podcast. Robert Martin's Clean
+Code (2008) frames the problem as entropy. GitHub's Spec Kit and Spec Kitty
+tools explore specification-driven code generation.*
+```
+
+**Anti-patterns:**
+- Do NOT use a bulleted or numbered list
+- Do NOT use a separate heading (no `## Further Reading`)
+- Do NOT include URLs — this is a prose-style recommendation, not a bibliography
+- Do NOT repeat the full academic citation format from `references.json` — paraphrase naturally
+
 ### Medium Tags
 5 tags mixing broad and niche:
 ```
@@ -224,10 +256,11 @@ Example: AI, Software Development, Code Quality, Technical Debt, Programming
 
 Compile deliverables:
 1. ✅ Blog post (Markdown, renamed to descriptive filename)
-2. ✅ Hero image prompt (YAML)
-3. ✅ LinkedIn blurb
-4. ✅ Medium tags
-5. ✅ References list (if applicable)
+2. ✅ Further Reading paragraph (appended to blog post)
+3. ✅ Hero image prompt (YAML)
+4. ✅ LinkedIn blurb
+5. ✅ Medium tags
+6. ✅ References list (if applicable)
 
 ---
 
@@ -253,6 +286,7 @@ Before declaring done, verify:
 - [ ] Ending is decisive, not trailing
 - [ ] Section headers are specific, not generic/grandiose
 - [ ] Tone is casual and curious, not preachy
+- [ ] Further Reading paragraph present after final `---`
 
 ---
 
