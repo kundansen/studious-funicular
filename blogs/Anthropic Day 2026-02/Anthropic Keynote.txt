@@ -1,0 +1,667 @@
+I'm Kate Benson, head of America.am.project, and we're coming to you from both San Francisco and New York.
+Last year, we heard about AI agents everywhere.
+2025 was meant to be the year where AI agents transformed the enterprise.
+But the heist turned out to be mostly premature.
+Many pilots started, and many failed.
+For enterprises, use cases that looked great in demos often didn't make it to production.
+And there was a growing sense that the technology was moving faster than the ability to actually deploy it well.
+It wasn't a failure of effort.
+It was a failure of approach.
+And it's something we heard directly from our customers.
+Even so, in 2025, AI found its killer use case.
+We saw real momentum in software development, with Claude and Claude Code at the center.
+Starting with Sonnet 3.5 in less than a year, we saw coding use cases for AI go from assisting on tiny tasks
+to AI writing 90, or sometimes even 100% of the code.
+With enterprises shifting in weeks, which once took many quarters.
+And we're now seeing real value add that goes far beyond incremental gains.
+Alongside our own growth, the fastest-growing startups in the world included many coding platforms,
+powered in part or entirely by Claude.
+And this happened because the value was real, and the results were repeatable.
+And their success has raised the ceiling of what's possible for the industry.
+In 2025, Claude transformed how developers work.
+And in 2026, it will do the same for knowledge work.
+The magic behind Claude Code is simple.
+When you can delegate hard challenges, you can focus on the work that actually matters.
+Co-work brings that same power to knowledge workers,
+and our customers and partners can build their own experiences using the same technology.
+By advancing what's possible in our products,
+and putting the same building blocks in our partners' hands,
+we amplify the entire ecosystem.
+As a sales leader, I see the value every day.
+Claude pulls real insights from noise,
+gives me quick context on customers, and keeps me focused on what matters.
+It works across all the tools I use,
+so I spend less time searching, and more time thinking and acting.
+Now multiply that across data, legal, and finance.
+Every function critical to the enterprise.
+The quality leaps we're seeing month over month are staggering,
+and the gains only compound from here.
+Just as we saw with coding,
+we see the signal that the world's fastest-growing startups and enterprises
+with domain expertise are also co-building the future of knowledge work with Claude.
+Their value is greater than ever.
+These technologies are amplifying their professional and institutional expertise,
+and it enables them to move faster.
+Claude is the thinking engine that powers this transformation.
+It's one system of models, agents, and tools designed to give you smarter employees,
+faster processes, and transformative products.
+And getting there requires more than adoption.
+It requires a different quality of thinking.
+A thinking engine fundamentally changes what your employees, processes, and products can achieve.
+The company is pulling ahead, all three at once,
+like the company is shown here, which we'll dive into in a little bit.
+Let's start with smarter employees.
+Claude is now embedded in the tools that every knowledge worker already uses.
+Excel, PowerPoint, Slack, and the desktop.
+Financial models that took hours take minutes.
+And the step change started, that started with engineers, that's reaching everyone.
+With faster processes, when Claude can reason across your entire operations,
+regulatory submissions, clinical reports, and customer support
+transform from operational bottlenecks into massive company advantages.
+It can compress timelines from months to days, or even hours to minutes.
+But this only works when Claude understands your organization's standards,
+your compliance requirements, your way of doing things.
+And that's what makes Claude so impactful for your business.
+And finally, transformative products.
+For many of you, the biggest opportunity isn't only internal efficiency.
+It's what you can build for your customers.
+Claude, the intelligence layer inside your products,
+enables capabilities that simply couldn't have existed before.
+This is new value for your customers, and new revenue for your business.
+The organizations that move forward on all three of these dimensions,
+employees, processes, products, they will compound their advantage over time.
+The ones that treat AI as a point solution, automating a single workflow
+and calling it transformation, they will find themselves falling further and further behind.
+We call this the thinking divide.
+Enterprises are moving beyond experimentation and are making AI core to how they operate.
+And this shift is happening faster than ever.
+A few months ago, a Fortune 10 CIO told me something that really stuck with me.
+We were discussing how enterprises needed to fit a decade of innovation in the next few years to keep up.
+They smiled, and they said, we're going to do it in one, with you.
+This is the thinking that will keep all enterprises really leading the pack if they embrace it.
+I'm going to talk to you about three companies leading the transformation, starting with Spotify.
+Their engineers spend a huge amount of time on code migrations,
+updating and modernizing code across thousands of services.
+It's essential work, but it's slow.
+It's manual, and only a few specialists on any team could really do it.
+And then recently, they enabled Claude directly into the system that all of their engineers use every day.
+Now any engineer can kick off a large-scale migration just by describing what they need in plain English.
+You're taking a bottleneck that's appended on a handful of specialists,
+and you're opening it up to the entire team.
+The impact here, up to 90% reduction in engineering time.
+Over 650 AI-generated code changes shipped per month.
+And roughly half of Spotify's total update now flows through this system.
+Now look at Novo Nordisk.
+Every new medicine they develop requires mountains of regulatory documentation before it can reach patients.
+Clinical study reports alone run up to 300 pages,
+and producing one was a grueling multi-month cycle.
+Their staff writers averaged just over two reports per year.
+And then they built Novo Scribe, an AI-powered platform with Claude as the intelligence layer,
+producing regulatory-grade content that's getting positive feedback from regulators.
+Think about that.
+That's the ultimate validation in pharma.
+And they used Claude Code to build the platform itself, which changed who could contribute.
+Their digitalization strategy director has a Ph.D. in molecular biology, not engineering.
+But now they can prototype features using natural language instead of writing tickets for a dev team.
+A team of 11 is operating like a team many times its size.
+And the impact here?
+Documentation creation went from 10-plus weeks to 10 minutes.
+That's a 95% reduction in resources for verification checks.
+Medicines are reaching patients faster.
+And then there's Salesforce, one of our strategic partners innovating with Anthropic and transforming right alongside us.
+Claude models help power AI in Slack, which in turn helps customers navigate complex, unstructured data.
+Salesforce themselves are seeing a 96% satisfaction rate for tools like Slackbot.
+And we are continuously evolving this partnership to deliver seamless experiences out of both Slack and Claude models,
+like saving customers 97 minutes per week when they use the summarization and recap features.
+And we're not building all of this alone.
+The companies that you see here are Claude partners and domain experts with the data and trusted relationships that make Claude work in the real world.
+They help ensure that legal solutions built on Claude work well for legal experts,
+that financial solutions built on Claude meet the strictest compliance requirements.
+Our partners help us deliver value for knowledge workers, and we plan to continue to raise the tide together.
+Now I'll pass it to Scott White, who will share everything we've built to get us closer to our ambitions for 2026.
+Hi, everyone.
+My name is Scott White, head of product for Claude Enterprise at Anthropic.
+Building on what KJ shared, I want to show how we're making knowledge workers more capable using co-work and plug-ins.
+Everything you see here today is also possible for anyone using our building blocks,
+like the Claude Agent SDK, to build their own agent experiences.
+Claude is your thinking engine, a holistic set of models, building blocks, and products
+that help you make the most of AI across your enterprise.
+For this event, my focus is helping employees work smarter with Claude.
+Over the last few quarters, we've expanded what Claude can do in a conversation,
+and we've made leaps in helping developers delegate more to Claude code.
+Now we're building co-work so all other enterprise knowledge workers can do the same.
+Even just providing these agent capabilities allows knowledge workers to get far.
+But to help each team pull ahead, we need to go further and help you bring the best of your organization,
+your standards, your quality bar, and your ways of working into Claude.
+I'm here to share several major updates in that direction.
+Co-work makes it possible for Claude to deliver polished, near-final work.
+It goes beyond drafts and suggestions, actual, completed projects and deliverables.
+Plug-ins are a way to share specialized skills, context, and connections to other enterprise tools
+so that Claude delivers work exactly how you need.
+Combined, they make it possible for Claude to truly become your enterprise agent.
+Today, we're introducing several updates that make Co-work and Claude truly yours.
+Since launching Co-work last month and adding plug-ins a few weeks ago,
+we've heard loud and clear from enterprises.
+You want Claude to work the way that your company works.
+Not just Claude for legal, but co-work for legal at your company.
+That's exactly what today's launches deliver.
+We're making Co-work more enterprise-ready across key areas.
+How admins and power users customize plugins,
+how admins provision and control them,
+how users discover and use them,
+and how you connect every app to make Claude more effective.
+Combined with recent launches like Claude in Excel and Claude in PowerPoint,
+plus several new connectors and plugins,
+we're making Claude the platform for enterprise agents.
+And as we push the frontier of knowledge work forward,
+every partner building on Claude reaches farther too.
+Plugins are an incredibly flexible way to customize Claude for your company.
+Today, we're launching a suite of controls to help admins build customized plugins
+that are entirely private and inside your organization.
+Admins can set up plugins customized from our starter templates
+or built completely from scratch.
+Claude can also help, asking a series of questions to tailor a plugin
+to your specific company and needs.
+And you can set up connectors to make this process even faster.
+We're shipping two things here.
+Customization of skills, commands, and MCPs within existing plugins,
+and create with Claude, the ability to create a plugin from scratch.
+Enterprises also need to control what plugins their teams can access.
+Today, we're launching admin provisioning of private plugin marketplaces.
+Admins can configure org-specific marketplaces,
+connect to private GitHub repositories as plugin sources,
+which is now in private beta,
+and manage which plugins are available pre-installed.
+Beyond that, we're launching auditability via open telemetry,
+similar to what we already support in Claude Code.
+Once a plugin has been customized and provisioned,
+we want to make it dead simple for users to interact with.
+Slash commands, structured workflows like generate a report or prep for a call,
+now launch with structured forms,
+so invoking a command feels as intuitive as filling out a brief.
+We've also rebuilt many of the core plugin surfaces to be simpler to use
+and layered in company branding throughout co-work.
+This includes slash command invocation with forms,
+company logo and name branding in co-work,
+and a redesigned plugin and co-work home tailored to your company.
+Claude is only as useful as the tools and data it can reach.
+We've overhauled our MCP experience end-to-end,
+better directory for discovering connectors, streamlined admin controls,
+and an improved core UX.
+Admins can now more easily manage MCP servers,
+which are available,
+and customize which connectors are bundled directly into plugins.
+To pair with this,
+we're shipping new connectors from several enterprise software companies,
+including Google Drive, Google Calendar, Gmail, DocuSign, Apollo, Clay, Outreach, SimilarWeb,
+MSCI, LegalZoom, FactSet, WordPress, and Harvey.
+We're also continuing to expand our pre-built plugin templates
+so that everyone in your org can find value from co-work on day one.
+Today, we're adding several new plugins.
+HR, design, engineering, operations, financial analysis, investment banking,
+equity research, private equity, wealth management, and brand voice by TribeAI.
+And it's not just co-work.
+Claude can now edit files and pass context between co-work, Excel, and PowerPoint,
+including across multiple files in the same application,
+like a bunch of Excel workbooks.
+Without you having to start over when you switch between apps.
+The powerful thing about plugins,
+now that you can create private marketplaces,
+is that you can collaborate with internal and external experts
+to customize Claude deeply for every role, team, and department.
+It's a flexible system that enables the entire ecosystem to grow.
+And plugins that you build are simple file systems.
+They're yours.
+Portable to products that you build with Claude as well.
+To show you how this all comes together,
+let's walk through a demo with a fictional company,
+Silver and Capital, a global financial services firm.
+Silver and Capital wants to accelerate growth.
+But competition with clear-edge systems is intensifying.
+With co-work and plugins, the team is equipped to take this challenge on.
+First, the finance team uses co-work to identify growth blockers.
+Claude pulls details across customer touchpoints to surface the most actionable insights.
+Co-work surfaces insights for the analyst and creates a spreadsheet with its findings.
+Claude identifies that clear-edge is winning 38% of competitive deals driven by faster onboarding timelines.
+The resulting spreadsheet synthesizes data across Silver and Capital's sales pipelines,
+work that would have taken an analyst days to complete.
+With Claude in PowerPoint, the findings become a presentation,
+turning raw data into digestible insights.
+Claude captures everything from product loss trends to recommended actions for Silver and Capital.
+It even cleans up slide designs at the analyst's request before the deck is shared with the wider team on Slack.
+Once shared, the entire company can review the findings and build out a plan of action based on Claude's recommendations.
+Next up, the legal team, which also uses a Claude-powered agent to help them update their processes.
+The legal team uses co-counsel.
+Thomson Reuters rebuilt co-counsel legal from the ground up with the Claude agent SDK,
+creating the only legal agent with native access to West law and practical law.
+With a single prompt, co-counsel legal compares previously executed agreements against the standard template,
+practical law market standards, and more.
+As it identifies patterns, it drafts fallback language and confirms enforceability on West law.
+Instead of reviewing the same deviations deal after deal, the legal team now has a playbook update,
+pre-approved positions that let sales negotiate routine terms without having to wait on legal review.
+Sales and product can now act immediately on insights and recommendations from the other teams,
+creating personalized sales plays and making relevant product updates in hours instead of days or weeks.
+They can operationalize everything they've learned across teams much faster and without having to spend time in meetings and memos.
+The result is an enterprise that can move faster and aim higher.
+With Claude working behind the scenes, Silver and Capital removes the toil from each department's core functions.
+Teams across the business can focus on craft and collaboration, building stronger, more dependable strategies together.
+Everything I've shared is live and available today.
+We're building co-work in a way that enables enterprises to truly make it theirs with plugins
+and to benefit all of the same agent building blocks that we build at every step.
+We're excited to see the enterprise agents that your teams build.
+And now I'll pass it over to Garvin from our product team, who will be speaking to several customers about their AI journeys
+and using Claude inside of their organization.
+Welcome, everyone.
+I'm thrilled to be here in New York.
+I'm joined with some leaders shaping AI in finance, law, software, and media.
+To start, maybe I can have each of you introduce yourself quickly.
+I'll start with you, Steve.
+Yeah, thanks, Garvin.
+Good to be here.
+I'm Steve Haskett from Thomson Reuters.
+We serve fiduciary professionals.
+So if you think about knowledge workers as the first stage, professional-grade AI is the second.
+We're in the fiduciary-grade AI business.
+And that's the basis on which we've developed co-council, which was mentioned in the product overlay.
+Thanks.
+Thank you.
+I'm Sridhar Masam, CTO of New York Stock Exchange.
+I lead the technology and strategy across our trading platforms, listing some regulatory technology.
+Our platforms process over a trillion messages on a peak trading day.
+Even at that scale, system resilience determines the market paramount.
+NYSE is part of ICE, Intercontinental Exchange, which is a Fortune 500 company where we operate exchanges,
+clearinghouses, mortgage business, fixed-income and data.
+Good morning, Seth Bain from Epic, a healthcare technology company, where most people probably
+know us by MyChart, which they use to access information about their labs or schedule appointments with their doctors.
+But we also create the software behind the scenes that hospitals and clinics use to have a full picture of the patient's story, whether that's a nurse, a pharmacist, or a doctor.
+Thank you so much. Welcome.
+Welcome. So from our prior conversations and everything we've shared today, I think we all agree that, you know, fundamentally work is changing.
+Shradar, can you share how your organization is thinking about AI in 2026?
+Yeah, I mean, we see AI as a tremendous accelerator in 2026 as adoption internally grows and as we move on from experimentation to production to scale.
+Cloud code works remarkably well with our complex code bases, and we are kind of rewiring our engineering process with coding, writing tests, legacy code bases, refactoring, documentation.
+And we also built internal AI agents, leveraging Anthropics, cloud agent, SDK, agents to write code, dev agent, and the CI agent to work together to actually take instructions from the Jura ticket all the way to commit code.
+Cloud models also are particularly effective in processing large documents and applying roles, and we are taking that to our regulatory and market watch workflows where we have built agents to review proxy filings, to auditing STC filings, news classifications,
+so that that can fit into the market watch functionality.
+We just announced an initiative platform for NYC digital for tokenized trading, tokenized equities.
+We used cloud code to build a reference implementation pretty quickly, and we see AI being part of our journey to accelerate that implementation.
+Have you found sort of in recent months there's been an acceleration?
+Like, how have you seen sort of phase shifts over maybe, you know, an 18-month and six-month time horizon?
+Yeah, I mean, you know, 18 months ago it was just more of a chat interface, and people were used to use using for code completion.
+Now with the agentic and reasoning capabilities, it's more independent, it's more of a collaborator than an assistant.
+That was a big fundamental shift in how people use AI.
+So, Shradar and Steve, a question maybe for both of you.
+You know, as we see more AI proliferation, leaders are overseeing massive AI projects and managing people and AI.
+What are ways we can maximize the chances of success?
+You know, how do we shift the leadership playbook as we roll out AI across these organizations?
+I would say, Gavin, that for the fiduciary professions that we serve, so legal, tax, accounting, audit, and the like, the tools are, in many senses, ahead of the change management.
+So, in other words, a general counsel's office, a law firm, a tax and accounting firm, an audit firm, need to rewire the processes to be able to take advantage of the benefits that the tools provide.
+And I think that work is ongoing, but I think it's 18 months away before that sort of change management catches up with the standard of the tools.
+So, I think that's the sort of, you know, one of the major work streams required here.
+Yeah, there's a few things I want to jump on.
+One is the accountability is shifting.
+So, traditionally, we are so used to building deterministic platforms.
+You know, you write code requirements and build.
+And now, with AI being probabilistic, the accountability doesn't end when the project goes live, but on a daily basis, monitoring the behavior and outcomes is the one.
+The other one I see is, like, it used to be a simple buy versus build, you know, buy what you can build what you must, and now we see an assembly as a paradigm emerging with combining multiple models, multiple vendors, platforms, data, internal capabilities.
+So, like, assembly is becoming a key aspect where you're able to assemble, you need to assemble all these things to have solutions.
+Third one I would touch upon is, like, from risk avoidance to risk calibration.
+So, typically, in the highly regulated industries, we're, like, typically towards risk avoidance, but, you know, just given the benefits of AI, that's not an option anymore.
+So, we need to build systems and calibrate risk regardless.
+If I can add to that, I think a key aspect of leadership in this paradigm is internalizing the rate of change of the technology under the hood.
+And I think a key to that is just using it every day.
+It helps be a cultural leader within the organization if you're spending time with it.
+And then we have seen that that then has a direct impact as folks sort of spending time with folks on their staff, et cetera, helping coach them how to use it as well.
+So, one unifying theme perhaps between all of you, aside from your roles, is that you all work in enterprises.
+You have decades of experience.
+And, you know, what are you thinking about when rolling out AI internally?
+And specifically, you know, to make sure that AI builds are exemplifying the expertise that exists within your firms.
+How are you sort of thinking about codifying the expertise, the subject matter expertise, into the products and organizational systems you're building?
+Are you noticing any challenges?
+Can you talk about it a little bit?
+Maybe Seth, let's talk.
+I would start by saying that the folks on the ground have the best ideas.
+And so it's really important for them to identify and spend time with and have the opportunity to openly explore how that works.
+And what we're seeing is a shift where that started with folks using AI in an assistive way.
+It might be a support staff being able to identify a little bit of information that they needed in regards to helping answer a customer question.
+And now as we're shifting into 2026, particularly with Cloud 4.6 and the Cloud Code Harness, they're able to now take that further.
+It's doing code exploration.
+They might even be composing and having a draft of their support ticket and their response right out of the gate and that full piece.
+And so them creating it on their own, I think, is a real way to open up those opportunities.
+Yeah, I mean, NYC has been at the center of the capital market for over 230 years with tremendous expertise in market structure, operations, compliance, regulation, and experience building, you know, truly scalable systems.
+And we make that as a foundation for AI for everything we do.
+So it's more of a domain-class AI approach.
+As an example, we are introducing AI into our market.
+This is the first time we're doing our, where we'll be implementing an auto-type team to kind of design to improve the execution quality as well as it is the adverse effect of that.
+And in NYC being part of ICE, we have a lot of customer-facing products where we're trying to bring that expertise and enable AI.
+Like, we have an iChat application where we build natural language search and text to SQL.
+We own mortgage businesses.
+We're using document intelligence, Texas loans, part of loan documentation.
+And our fixed income and data businesses, we're able to put our own MCP combining with our own proprietary data.
+Yeah, and I would build on Seth and Sridhar's comments with a few learnings from our own co-council rollout.
+We're now at a million users and rising fast with co-council.
+And two things I think are very important, certainly in terms of learnings that we're bringing back and applying internally as we think about different tools, including the Claude Suite.
+The first is the importance of sort of validation and verification.
+So in other words, the results that a particular tool is producing in its various forms, can we, in a sense, go back and audit that?
+Do we know exactly where it's coming from?
+Can we stand behind the accuracy of the output?
+I think that's a huge, huge learning in terms of where we're going.
+And I think the second related part of that is we have an ironclad guarantee for our customers of co-council, which is their input will not be part of our AI output.
+Their input will not be part of our AI output.
+And we apply the same internally.
+So what we don't want is our IP bleeding out into the ether, getting into the hands of competitors or others.
+And maybe more importantly, what we don't want is our customers' IP to go anywhere but within their own four walls.
+And so those are learnings that we're taking and applying as we think about the sort of internal automation of legal, of finance, of customer support, customer success, engineering, and everything else.
+And I think those hold us in really good stead.
+And Steve, you mentioned the notion of sort of trust in these AI systems.
+I'm curious how each of your organizations has thought about the sort of increasing aperture you provide or allow these AIs to operate within.
+How do you think about that from an organizational perspective and just overall sort of trust angle?
+Yeah, so, I mean, trust is sort of a core tenet of what we do.
+It comes from 175 years ago when Reuters, the news agency, was founded.
+It's really one of the last, if not the last, independent, fact-based news agency.
+No left, no right bias, no narrative, no opinion, just the news, just the facts.
+And so the trust principles that are the bedrock of Reuters go across our entire organization.
+So as we think about, first and foremost, the products that we put into the marketplace, they have to stand above.
+And they're based on our content and our domain expertise.
+We're model agnostic.
+And so we look for the very best enterprise model and applications to support our efforts.
+At the moment, that's Claude.
+And so, you know, as was outlined earlier, the new version of co-council was built on the Claude suite.
+And we've also developed our own specialist internal large language model for lawyers.
+It's called Thompson, imaginatively named.
+And that's starting to outcompete all of the models on certain dimensions.
+So over time, we'll just continue to evaluate the best models.
+And if that's Anthropics, then that's fantastic.
+I tend to think about this often on two levels as we're working with health systems.
+The first one is a base level where they're able, before capabilities go into a production setting, to verify it.
+And then use that same methodology for ongoing monitoring of their AI use cases in a production context.
+I think most folks think about that later.
+But an important aspect, particularly as the capabilities continue to rapidly improve within the software we're providing to doctors and nurses,
+is that we're also thinking about the user experience and building trust into that.
+So an example of that was the first capability we released was a summarization of the medical record,
+but it included links to the parts of the medical record where they could go and verify and build trust.
+That gave both the users and then the health systems the opportunity to build that foundation
+so that as you move to more agentic capabilities, you could string different pieces of functionality together
+in a way that both the organization and the users had confidence.
+Yeah, just as Stephen has covered, I think to add, we're building observability and auditability and explainability,
+especially when we introduce AI into a market that is keto regulators.
+I think that is the core focus for us.
+How do we bring that observability and then have humans as a judgment and decision makers not to say?
+Couldn't agree more.
+Maybe switching gears sort of to the topic of quality and co-work as we discussed earlier today,
+given we're on the topic of sort of empowering employees and leaders,
+I'd love to hear about each of your experiences with quality and co-work so far.
+I heard a little bit from you, Steve, but any exciting transformations you're seeing taking shape?
+I would love to hear how that experience has gone so far.
+I guess maybe I'll start, you know, I think at an organizational level,
+the obvious place I can mention is development, right?
+That's what everybody is going to think is where I'll start, which is true.
+We see teams and we see individuals now managing teams of agents
+to be able to both create new products as well as upgrade systems.
+But I think interestingly where we're going to see more impact,
+and this was very surprising to us as we rolled out cloud code internally,
+was the amount of support and implementation staff.
+These are not developers that are suddenly using it in a variety of ways we had not anticipated.
+Over half of our use of cloud code is by non-developer roles across the company.
+Personally, I've been finding it helpful in analyzing and keeping up with the rate of change of technology
+and using it as I'm reading articles and draw connections between different places.
+So I think it needs to be applied at all of those different levels.
+And Ken?
+Yeah, I mean, we're still early in adopting our co-work and plugins,
+but we see co-work as a shift from assistant to collaborator.
+Until now, the beneficiaries of agency capabilities of cloud code have been engineers
+and cloud co-works brings that to the enterprise.
+Cloud with plugins, which was announced earlier, like it just said earlier,
+like the role-based templates, and we are kind of reimagining some of the previous solutions
+that we can implement in some of those co-works plugins, and think of it more.
+Yeah, so we're running a comprehensive program to automate everything we do.
+We've got the same team leading it that led our change program several years ago,
+and so they're a battle-hardened team when it comes to this stuff.
+I think we're starting to see similar benefits that Kate talked about in terms of Spotify
+and others in terms of development, to Seth's point.
+And so, you know, we're really betting that down.
+We're really seeing the benefits in terms of the quality and speed of our developers' outputs
+and those broader engineering teams.
+And then, of course, we're applying our own product co-counsel to our general counsel's office
+under Norrie Campbell's leadership,
+to our finance and internal audit under Mike Eastwood's leadership.
+And we're starting to see very significant benefits there in terms of not only the speed of output,
+but I think more importantly, the accuracy and the reliability and trust that we place in it.
+And for those teams that are always busy, that always have more to do than they have time,
+it really frees them up to start to think more strategically
+and to start to look around corners and add value to the broader organisation.
+And that's fun for them, not in addition to everything else.
+Fantastic.
+And, you know, all three of you have experienced sort of the AI evolution over the last two years.
+I'm curious if you have any predictions for 2026,
+sort of maybe what do you think the next few months are going to hold,
+either in your specific industries, in your domain in AI,
+sort of an open question to the group.
+Maybe I'll start again with you.
+I am very optimistic both about the opportunity for AI to help improve the quality of care that's being delivered
+within the clinics and the hospitals,
+and in particular bringing the latest research and insights in the context of the patient
+into the workforce so that the physician and the doctor are working together in that context.
+And the key there is that it essentially both improves quality,
+but then also starts to expand the workforce.
+In healthcare, we really, really need more people to be able to care for
+and take care of our ageing population and the variety of conditions that they're facing.
+And so I think through 2026, we're going to start to see those improvements come forward
+and that expansion in access.
+Yeah, I mean, we have heard about, you know, people managing agents,
+and I think just being built multiple agents,
+and that seems to be realising in 2020,
+we're actually teams to be managing.
+Yeah, I think certainly in the, you know, the neck of the woods that we compete in
+and the customers we serve, I think this idea of fiduciary and fiduciary-grade AI,
+I think that will start to take hold as the consequences of a lawyer or an accountant
+in order for getting it wrong, really become clear.
+I think the tools will continue to develop at a rapid rate.
+Certainly if I look at our product development plans
+and I launch the new version of Co-Council in a couple of months,
+it's a very, very exciting year.
+I think, as I said earlier, the long pole in the tent is change management.
+I think we'll see a lot of progress in terms of the internal change management
+amongst our customers, but that is the harder part
+before we all start to really see the benefits.
+And if you had to sort of, you know, aggregate your experiences,
+maybe what piece of advice might you offer, you know, other business leaders in the space,
+maybe further or sort of maybe behind you on the adoption curve for AI?
+Is there anything you would share with the set of perhaps business leaders watching today
+on how they can accelerate their own AI adoption?
+I would immediately focus on open exploration,
+both personally as a leader within the organisation and for the team.
+that opportunity.
+You don't know always where both the opportunities exist
+and the bottlenecks exist in your processes.
+And so having folks explore starts to illuminate those directly.
+Yeah, something similar.
+Like, the innovation in AI is happening at the speed of an idea, right?
+And it could be, you know, overwhelming because the world seems to be changing from week to week.
+And I would advise to keep pace with this innovation in terms of experimentation
+and kind of understanding the problem that it can solve
+or also kind of reimagining some of the existing solutions.
+Like, you don't always have to be the first mover,
+but be the faster adapter to solve the right solution.
+Right problem.
+Yeah, I would say, you know, similar to Shreda,
+I think as leaders, we all have to get, as Seth said earlier,
+we all have to get personally involved and personally invested in using the tools, firstly.
+Secondly, we've got to move fast.
+This environment is changing quickly.
+We cannot afford to get left behind.
+But I think thirdly, and maybe most importantly,
+we all have to protect our institution's IP,
+and we have to be feverish about that.
+And so there's a balance there that needs to be struck.
+And the most successful will strike that balance very effectively.
+Thank you so much.
+Well, I appreciate each and every one of you, you know, sharing your opinions today.
+It's been a pleasure to have this conversation.
+I'd love to welcome up next on stage,
+Eleanor Dorfman, who leads our head of industries.
+Hi, everyone.
+I'd like to quickly introduce myself.
+As Garvin said, I'm Eleanor Dorfman.
+I'm based here in New York, and I lead the industry sales team at Anthropic.
+I'd like to thank Garvin and all of our panelists.
+It was amazing to hear how much has changed even in just the last 18 months,
+and how leaders like the ones you saw today are really starting to pull ahead.
+But now I'd like to bring on a slightly different voice for this next segment.
+And join me in welcoming Peter McCrory, Anthropic's head of economics,
+who has been thinking about and studying the economic implications of this technology
+more than almost anyone in the world.
+Peter, welcome.
+Thank you.
+All right.
+First question.
+As we talked about earlier in the keynote,
+2026 is shaping up to be the year that AI truly transforms knowledge work.
+You spent the last year building the most comprehensive data set
+on how AI is actually being used in the economy.
+What is the Anthropic Economic Index, and what is it actually measuring?
+The Anthropic Economic Index is our effort to understand usage and diffusion
+of this transformative technology all throughout the economy.
+It's an effort that we undertook about a year ago,
+where we use privacy-preserving methods to analyze how people and businesses
+are using Claude in personal and professional settings.
+And over the course of the year, we've made that data more useful and more comprehensive.
+We now have information on how Claude is being used in more than 150 countries
+across every U.S. state.
+And we have information on the types of tasks and the associated jobs
+that people are using Claude to complete.
+We're able to answer questions of, are things being automated?
+Is your workflow being augmented?
+What efficiency gains and productivity benefits are we seeing in the data?
+And broadly speaking, we think that this data is incredibly important for all of us,
+not just Anthropic, but society more broadly, to understand what are the labor market
+and economic implications of this technology, given how quickly things are changing.
+And since we started tracking this data a little over a year ago,
+what are a few trends we've seen over time?
+And have these trends, or how have these trends, changed our approach towards how and what we're reporting?
+Yeah, so I think one of the things that sort of keeps me up at night as I think about this technology
+is that it's what economists refer to as a general purpose technology.
+It means that there is almost no facet of the economy that won't be affected in some dimension
+by large language models, by the type of technology that we're developing.
+And indeed, we see signs of that in our data.
+About a year ago, roughly a third of all jobs across the U.S. economy
+had at least a quarter of the tasks that people do in those jobs appearing in our data.
+So you're a copy editor, something that you do in your daily job.
+People are using Claude for software engineers, of course.
+That number, a third of all jobs, has risen over the course of the year to around one in every two jobs.
+So the scope of impact is broadening out throughout the economy as the tools and as the technology becomes more capable
+and as businesses and people begin to experiment and adopt these tools for new purposes.
+As I mentioned before, one of the main things that we look at is the difference between automation and augmentation.
+Automated use of Claude is where you give Claude a specific task, like translate this document from English into Portuguese.
+Maybe you're going to go to Portugal on vacation.
+I would like to at some point.
+And Claude just does it for you.
+And there's no back and forth.
+That would be like an automated use.
+Augmented use is where Claude is more or less a collaborative partner in your workflow.
+So I'll write a first draft of a report I'm working on and I'll give it to Claude and ask for help in evaluating my logic and the structure of my argument.
+And we have this rich back and forth collaboration.
+The impact of this technology on the economy and on the labor market more broadly will be, in some sense, shaped by whether tasks become automated or whether they augment how we do our work.
+An interesting thing that we see in the data when we turn our attention to how businesses are embedding Claude in their workflows through the API is that we see overwhelmingly Claude is being embedded in automated ways.
+And so this is typical of how new transformative technologies spread throughout the economy.
+There's an early period of experimentation, but eventually businesses figure out how to embed the general purpose technology in perhaps even invisible ways to the end customer.
+When you go to a coffee shop and you buy a latte, you don't necessarily think about the electricity that powers the light and powers the espresso maker, but nevertheless are instrumental in that experience.
+So from what you just said, it seems like more and more jobs across the board are being reshaped.
+And that's what we're seeing in the data.
+The people in this room and on the live stream watching today are all leaders of enterprise companies and employ teams across every facet of knowledge work disciplines.
+And there's a lot of worry in the market broadly around AI displacement and job displacement and AI's impact on knowledge work.
+But if we look at the data, what does it actually tell us about how AI is changing knowledge work and any risk to enterprise knowledge workers?
+It's a great question and certainly something that we are paying a lot of attention to the motivation for this work is to not just understand how cloud is being used, but what sign that might have for how the labor market, how the economy is set to evolve and indeed is already being reshaped.
+I think a major lesson of our recent work, in particular, this report we put out in January, is that the labor market implications are likely to be very uneven, at least for the foreseeable future, much in the same way that past wave of information technology innovation had uneven impacts.
+Some workers, some workers, some workers stood to benefit, so sometimes this is referred to as skill bias technology, technical change, where your high skilled workers are the ones who become all the more productive.
+And indeed, we see some signs of that in our data, where roles that typically require more years of schooling have the largest productivity or efficiency gain based on how cloud is being used.
+So there's arguably a larger benefit to some of your more experienced high-skilled workers.
+Now, I do worry about jobs that are pure implementation.
+And one way that we get a signal on this is looking at across the economy, where is cloud being used for tasks that are essential to the associated job?
+So I'll give you a concrete example.
+Data entry workers, the most central task involved in being a data entry worker is reading unstructured text and combining and extracting bits of information and putting it into a structured environment.
+That is the type of task, implementation task, that large language models are very effective at doing.
+Technical writers would be another good example.
+So reading technical information and synthesizing it and presenting it in an accessible way for a lay audience is something that FOD reliably handles and actually would see people using FOD in that way on the platform.
+Those are the sorts of jobs that arguably might have more displacement risk.
+I think taking a step back, we're not yet seeing any evidence of widespread displacement in the labor market.
+The unemployment rate in the U.S. is not too far from what many economists deem as full employment.
+And we actually will have some research coming out later this week where we introduce a methodology for tracking or tracing out the patterns that we see in our data and what implications they have in the U.S. labor market as a way to monitor whether or not the most highly exposed workers are already seeing or to the extent that they might be seeing displacement already.
+Very, very insightful, thank you.
+Let's flip the frame.
+You have found, as you just mentioned, that AI provides bigger productivity gains for more complex, higher skilled work.
+What does that mean for the people watching and in this room who are trying to amplify but not replace their work?
+Yeah, so the way that I think about this is in terms of, I already mentioned implementation.
+What happens on the boundaries of implementation?
+There is setting direction, asking the right question, and then there is evaluation.
+I think this question asking is increasingly high leverage.
+In my own work, it is less important to know how to implement a particular statistical method, but rather am I asking the most insightful question.
+And what's exciting about this technology is you can not just ask those questions, but you can iterate very quickly.
+So your ability to prototype and to even explore beyond the boundaries of how you might have otherwise conceived of your role is, I think, something that's really important in this new environment where Claude can kind of extend your capabilities.
+I'll give a concrete example from my own experience.
+So I know nothing about building websites or doing front-end web development, but I've asked Claude to create an interactive dashboard that I could share with my coworkers to analyze some of the data that I've been describing.
+And Claude put together a bunch of buttons that you can click, and in some sense, my role as an economist is changing and somehow includes this thing that I would have never otherwise conceived of as being a part of my role.
+I think another way that I think another way that you might see this is product managers who are prototyping early versions of the actual software, not just speccing it out, and vice versa, software engineers who are taking on some of the responsibilities of a product manager.
+So broadly, I see scope for job transformation, and the boundaries between jobs are in this state of flux, and in that environment, skills of adaptability, curiosity, the ability to delegate and provide oversight over these models as they do increasingly complex tasks, I think will become increasingly important.
+Have you enjoyed this new extension of your role?
+I think it's incredibly fun.
+I mean, I have opinions on what dashboards should look like, and I've also discovered that that sense of taste is really important.
+The first version that Claude put together was not that good, but I was able to say, you know what?
+Present the data in exactly this way, style it in this way, given my experience and the type of work that I've accumulated over the years, I knew exactly what I was looking for.
+That tacit knowledge is, like, really important.
+It's also, I think, an open question of how you transfer that tacit knowledge to a younger generation of workers who are just entering onto the system.
+Yep, I think that is one of the core questions a lot of people are faking through.
+All right.
+To close this out, you have been studying AI's impact on the economy, as we said, longer than almost anyone, although Peter did ask me to say longer than anyone.
+And if you are sitting where these leaders watching today are sitting, they're running an enterprise organization, they're thinking through a lot of noise, and they're trying to find the signal, and trying to make the right bet in 2026,
+especially as these models and the technology is evolving so rapidly, what does the data tell them that they should do?
+So one of the things that we did in this report from September is we dug into the details of how Quad is embedded by enterprise customers through the API.
+One of the interesting things that we find there is that for the most complex tasks that businesses are using Quad for, they provide a lot of context, a lot of information.
+Quad relies on contextual information, and disproportionately more contextual information, the more complex the task that Quad is being asked to do.
+And I think that that illustrates a really key point about how enterprises stand to benefit.
+It's that it might not just be about fundamental capabilities of the model.
+Quad might be capable of the task that you want Quad to do, but do you have the right sort of data ecosystem, data infrastructure, to provide the right information at the right time?
+Historically, this requires complementary investments in modernizing or data modernization efforts, so to ensure that a pipeline of data is available to Quad right as it needs it.
+It might also require new organizational processes and maybe even new organizational structures to elicit that information.
+So for example, if you're using Quad to develop a very sophisticated sales strategy, if the information that Quad needs is in your co-workers' mind, that's not a technical problem per se, that's an organizational problem.
+How do you align the incentives within your organization so that your workers want to centralize this tacit information that can benefit the organization as a whole?
+And I think organizations that can be adaptable and nimble about effectively embedding these capabilities likely will benefit.
+Any other closing thoughts before we wrap for today?
+Yeah, I think, as I mentioned, it's a general purpose technology.
+There's no aspect of the economy that's not set to change.
+Adoption has been very fast.
+Surveys of consumers and business have shown this.
+This makes sense.
+You don't need specialized skills to use these tools, and so it's really important to experiment and adapt.
+The capabilities are moving very, very quickly.
+This is, you know, automation of one form or another is not entirely new.
+The pace of change, arguably, is much faster than it was historically.
+End of adoption.
+End of adoption.
+And it might represent, as economist Jonathan Haskell from London describes it, it might be an innovation in the method of innovation.
+So it's not just making us better at the things that we do.
+It's helping us discover new ways to do things.
+But all of those things combined introduce immense uncertainty over what the near term looks like, much less longer run.
+So, like, our research is intended to help all of us navigate that transition.
+But I think it's important to be humble and adaptable in a rapidly changing environment.
+Amazing.
+Perfect final thoughts, and thank you so much for taking the time and being with us in New York today.
+Thank you for having me.
+It was a wonderful discussion, and I'd like to close us out and bring us back to where Kate started earlier in this keynote.
+2026 is the year that AI is going to transform knowledge work.
+As you heard from Peter, we're still figuring out what that's going to look like, but we'd love for Claude to be the thinking engine for that transformation.
+Thank you all so much for your engagement and for tuning in today.
+It means a great deal to have you with us as we build this future together.
+We have a few more sessions coming your way and content coming later today.
+Look out for two sessions we'll be sharing on our channels.
+The first is a question we get all the time.
+How does Anthropic use Claude?
+And so we'll have four Anthropic leaders, including myself, representing finance, legal, sales, and product, and they'll share, we will share, how our teams use co-work and plug-ins daily in our work, and we'll have live demos that bring each use case to life and make it really clear for you all.
+The second is on deploying Claude in production across your organization, and it'll be a deep dive into how Claude, co-work, and plug-ins work in enterprise deployments, and we'll bring back Seth Hain from Epic, the VP of R&D.
+Thank you so much again.
+We hope to see you back for those, and take care.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.

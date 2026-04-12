@@ -1,0 +1,14 @@
+extends: existence
+message: "Avoid '%s' — this is a common AI writing pattern. Restructure the sentence to lead with the actual point."
+level: error
+scope: sentence
+tokens:
+  - 'not because'
+  - 'not just'
+  - "isn't just"
+  - "wasn't just"
+  - "aren't just"
+  - "weren't just"
+  - "didn't just"
+  - "doesn't just"
+  - "don't just"

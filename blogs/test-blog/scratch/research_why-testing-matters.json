@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "title": "Result 1 for Why testing matters",
+      "url": "https://example.com/Why testing matters/1",
+      "snippet": "Short snippet"
+    },
+    {
+      "title": "Result 2 for Why testing matters",
+      "url": "https://example.com/Why testing matters/2",
+      "snippet": "Short snippet"
+    },
+    {
+      "title": "Result 3 for Why testing matters",
+      "url": "https://example.com/Why testing matters/3",
+      "snippet": "Short snippet"
+    }
+  ]
+}

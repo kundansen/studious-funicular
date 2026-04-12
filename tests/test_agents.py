@@ -1,7 +1,7 @@
 import os
 from blog_agents.concrete import IdeaExpander, MarketResearcher, ReferenceScout, OutlineReviewer, MediumBlogger, BlogEditor, VisualPromptDesigner
 
-DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "blog_data")
+DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "scratch")
 
 
 def test_idea_expander():

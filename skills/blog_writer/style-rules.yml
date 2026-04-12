@@ -1,0 +1,386 @@
+# blog-style-rules.yml
+# Blog Writing Style Validation Rules
+# Version: 1.0 | Last updated: 2026-03-26
+#
+# Used by: (1) Vale CLI via .vale.ini | (2) AI fallback checker in blog-pipeline.md
+#
+# TUNING THIS FILE:
+# Change rules here without touching blog-pipeline.md.
+# severity: error   = must fix before publication
+# severity: warning = review each instance; justify if keeping
+#
+# Each 'tokens' list uses case-insensitive exact-phrase matching.
+# Each 'pattern' uses regex.
+# AI-only checks (Vale can't do these) are marked with: ai_only: true
+
+meta:
+  version: "1.0"
+  readability:
+    target_flesch: "60-70"       # General audience target
+    technical_lower_bound: 50    # Acceptable floor for technical content
+  stiff_transition_limit: 2      # Max occurrences per document (warning above this)
+  allow_and_but_sentence_starts: true   # Allow sparingly; flip to false to ban
+  default_image_style: "East Asian ink wash painting (sumi-e)"
+  image_style_notes:
+    - "Dry-brush ink wash, poetic tone"
+    - "Asymmetric composition, balanced, tranquil"
+    - "Avoid modern tech elements unless thematically central"
+    - "No photorealism, no symmetrical AI-generic compositions"
+
+# =============================================================================
+# RULE GROUP 1: AI Clichés and Stock Phrases
+# Zero tolerance. Fix every instance.
+# =============================================================================
+banned_phrases:
+  severity: error
+  description: >
+    AI clichés, buzzwords, and stock phrases that signal non-human writing.
+    These appear constantly in AI-generated text and immediately signal
+    inauthenticity to a discerning reader.
+  ignorecase: true
+  tokens:
+    # Digital age / world openers
+    - "it's important to note"
+    - "it is important to note"
+    - "in today's digital age"
+    - "in today's fast-paced world"
+    - "in the modern era"
+    - "in this day and age"
+
+    # Dive/unpack family
+    - "let's dive in"
+    - "let's dive into"
+    - "dive deep"
+    - "dive deeper"
+    - "delve into"
+    - "unpack this"
+    - "let's unpack"
+    - "let's explore"
+
+    # Leverage / harness / unlock family
+    - "leverage"
+    - "harness the power"
+    - "unlock the potential"
+    - "unlock new possibilities"
+    - "utilize"
+    - "utilization"
+
+    # Game-changer / transform family
+    - "game-changer"
+    - "game changer"
+    - "revolutionize"
+    - "transformative"
+    - "transform your"
+    - "cutting-edge technology"
+    - "cutting edge"
+    - "at the forefront"
+    - "at the cutting edge"
+    - "paradigm shift"
+
+    # Seamless / elevate family
+    - "seamlessly integrated"
+    - "seamlessly"
+    - "elevate your experience"
+    - "elevate your"
+
+    # AI self-reference
+    - "as an AI"
+    - "as a language model"
+    - "let me explain"
+    - "let me delve"
+    - "in this article we will"
+    - "in this blog we will"
+    - "in this post we will"
+    - "this article will"
+    - "this blog will"
+
+    # Artificial corrective pattern ("It's not X. It is Y." / "Didn't just X. Did Y.")
+    # Note: this is better caught by the rhetorical_fragments AI check
+    - "it's not just a"
+    - "it is not just a"
+    - "didn't just"
+    - "doesn't just"
+    - "don't just"
+
+    # "Shipped/ship" as a verb for code — use deployed, released, built, submitted, merged
+    - "shipped code"
+    - "shipped the"
+    - "we shipped"
+    - "you shipped"
+    - "I shipped"
+    - "shipped a"
+    - "ship it"
+    - "ship the"
+    - "ship a"
+    - "ready to ship"
+    - "time to ship"
+
+    # Friction / frictionless — overused in AI/product discourse; find specific substitutes
+    # (e.g. "no resistance", "agreement", "no pushback", "smooth", "unimpeded")
+    - "friction"
+    - "frictionless"
+    - "frictionlessness"
+    - "no friction"
+    - "low friction"
+    - "adds friction"
+    - "removes friction"
+    - "friction-free"
+
+    # Named third-party platforms — avoid brand names in prose; use generic terms
+    # (e.g. "a messaging platform", "a team channel", "an internal tool")
+    - "Slack"
+    - "on Slack"
+    - "in Slack"
+    - "via Slack"
+
+    # End-of-piece boilerplate
+    - "in conclusion"
+    - "to summarize"
+    - "in summary, it is"
+    - "as we can see"
+
+# =============================================================================
+# RULE GROUP 2: AI Sentence Starters
+# Zero tolerance. These are dead giveaways of AI-generated prose.
+# =============================================================================
+ai_sentence_starters:
+  severity: error
+  description: >
+    Sentence-opening patterns that are strongly associated with AI-generated text.
+    They create a performative, presenter-voice quality that reads as artificial.
+  ignorecase: false
+  tokens:
+    - "Picture this:"
+    - "Here's the thing:"
+    - "The bottom line:"
+    - "Long story short:"
+    - "Fast forward:"
+    - "So here's the thing:"
+    - "Here's what you need to know:"
+    - "Let's be honest:"
+    - "The truth is:"
+    - "The reality is:"
+    - "Make no mistake:"
+    - "At the end of the day,"
+    - "When all is said and done,"
+
+# =============================================================================
+# RULE GROUP 3: Stiff Academic Transitions
+# Warning. Limit to stiff_transition_limit per document.
+# =============================================================================
+stiff_transitions:
+  severity: warning
+  description: >
+    Formal connective transitions that create academic distance.
+    Prefer: "so", "but", "then", "which means", "and yet".
+    Limit: see meta.stiff_transition_limit (default 2 per document).
+  ignorecase: false
+  count_limit_from_meta: true
+  tokens:
+    - "Furthermore,"
+    - "Moreover,"
+    - "Additionally,"
+    - "Consequently,"
+    - "Subsequently,"
+    - "Nevertheless,"
+    - "Notwithstanding,"
+    - "In contrast,"
+    - "On the other hand,"
+    - "It is worth noting that"
+    - "It should be noted that"
+
+# =============================================================================
+# RULE GROUP 4: Journalese
+# Zero tolerance.
+# =============================================================================
+journalese:
+  severity: error
+  description: >
+    Tabloid-style compressed language that reads as sensationalized or lazy.
+  ignorecase: true
+  tokens:
+    - "bid to"
+    - "probe into"
+    - "axe the"
+    - "pledge to"
+    - "level playing field"
+    - "in the final analysis"
+    - "shrouded in mystery"
+    - "sparks debate"
+    - "raises eyebrows"
+    - "takes center stage"
+    - "sends shockwaves"
+
+# =============================================================================
+# RULE GROUP 4b: Right Arrows in Prose
+# Zero tolerance. → is not how humans write. Use a colon, comma, or restructure.
+# =============================================================================
+right_arrows_in_prose:
+  severity: error
+  description: >
+    Right arrow (→) used as a connector in prose or section labels.
+    "Logs → stderr" should be "Logs to stderr" or "Logs written to stderr".
+    "Result → success" should be rewritten as a sentence.
+    Exception: permitted inside code blocks and diagrams.
+  pattern: "→"
+  note: "Only flag in prose context — not inside code fences or mermaid blocks."
+
+# =============================================================================
+# RULE GROUP 5: Em Dashes
+# Zero tolerance. Use a regular hyphen or restructure the sentence.
+# =============================================================================
+em_dashes:
+  severity: error
+  description: >
+    Em dashes (—) are banned. They appear commonly in AI output and
+    are a subtle tell. Restructure the sentence or use a colon, comma,
+    or regular hyphen instead.
+  pattern: "—"
+
+# =============================================================================
+# RULE GROUP 6: Rhetorical Self-Answering Fragments
+# Warning. Pattern: "Short question? Short answer." Rewrite as statements.
+# Example: "The result? Success." → "It worked."
+# =============================================================================
+rhetorical_fragments:
+  severity: warning
+  ai_only: true
+  description: >
+    Self-answering question fragments create a fake dramatic pause.
+    Pattern: a sentence fragment ending in "?" immediately followed
+    by a short declarative answer (≤8 words). Rewrite as a statement.
+  pattern: '\?\s+[A-Z][a-zA-Z\s,]{0,50}[.!]'
+  note: "Flag matches; not all question-answer pairs are fragments. Use judgment."
+
+# =============================================================================
+# RULE GROUP 7: Repetitive Sentence Starts
+# Warning. Three or more adjacent sentences starting with the same word.
+# =============================================================================
+repetitive_starts:
+  severity: warning
+  ai_only: true
+  description: >
+    Three or more adjacent sentences beginning with the same word creates
+    a monotonous drumbeat rhythm. Especially problematic with: The, This, It, I.
+  check: "repetitive_sentence_starts"
+  threshold: 3
+  watch_words:
+    - "The"
+    - "This"
+    - "It"
+    - "I"
+    - "We"
+    - "There"
+
+# =============================================================================
+# RULE GROUP 8: Micro-Sentence Clusters
+# Warning. Three or more consecutive ultra-short sentences.
+# =============================================================================
+micro_sentences:
+  severity: warning
+  ai_only: true
+  description: >
+    Three or more consecutive sentences of ≤5 words create a choppy,
+    listicle quality. "Good instruction. Timely feedback. Sufficient time."
+    Rewrite as a list, or as a flowing compound sentence.
+  check: "micro_sentence_cluster"
+  cluster_size: 3
+  max_words_per_sentence: 5
+
+# =============================================================================
+# RULE GROUP 9: Uniform Sentence Length
+# Warning. Detect when 5+ consecutive sentences are all 15-25 words.
+# =============================================================================
+sentence_length_uniformity:
+  severity: warning
+  ai_only: true
+  description: >
+    Five or more consecutive sentences in the 15–25 word band signal
+    AI-generated prose — it has no natural rhythm variation (burstiness).
+    Mix short punchy sentences with longer building ones.
+  check: "uniform_sentence_length"
+  consecutive_threshold: 5
+  uniform_band_min: 15
+  uniform_band_max: 25
+
+# =============================================================================
+# RULE GROUP 10: Hedging Without Evidence
+# Warning. Vague uncertainty without a stated reason or next step.
+# =============================================================================
+empty_hedging:
+  severity: warning
+  description: >
+    Vague hedges without grounding read as evasive. If genuinely uncertain,
+    say why and propose a next step. Do not use hedging as a softening tool.
+  ignorecase: true
+  tokens:
+    - "it could be argued"
+    - "one might say"
+    - "some would argue"
+    - "it is generally believed"
+    - "many experts agree"
+    - "studies have shown"    # (requires citation — flag when no citation follows)
+    - "research suggests"     # (requires citation — flag when no citation follows)
+
+# =============================================================================
+# RULE GROUP 11: Structural Uniformity
+# Warning. Signals template-following rather than craft.
+# =============================================================================
+structural_uniformity:
+  severity: warning
+  ai_only: true
+  description: >
+    Structural uniformity is a reliable AI tell. When every section opens
+    the same way, every list is left unanchored, and every section carries
+    the same word-count weight, the piece reads like output from a template
+    rather than writing from a person. Check for the patterns below.
+  checks:
+    - id: "identical_section_openers"
+      description: >
+        Flag if 3 or more sections open with the same structural move
+        (e.g., all begin with a topic sentence, all begin with a scene,
+        all begin with a rhetorical question). No two adjacent sections
+        should share an opening move type.
+    - id: "unanchored_lists"
+      description: >
+        Every list (bulleted or numbered) should have either a setup sentence
+        that earns it, a follow-up sentence that adds something the list doesn't
+        say on its own, or both. Flag any list that stands alone in the middle
+        of prose with no before/after anchoring.
+    - id: "uniform_section_weight"
+      description: >
+        Flag if all sections fall within a 20% word-count band of each other
+        (e.g., all between 220 and 280 words). At least one section should be
+        notably shorter and one notably longer than the median. Deliberate
+        contrast in section length creates rhythm.
+    - id: "missing_structural_wildcards"
+      description: >
+        If the creative brief specified structural wildcards, check that at
+        least one is present in the draft and that it feels earned, not
+        dropped in mechanically.
+
+# =============================================================================
+# AI FALLBACK SCORING RUBRIC
+# When Vale is not available, use this rubric to score the draft.
+# Score 0-2 per dimension. Target: ≥11 out of 14.
+# =============================================================================
+scoring_rubric:
+  description: >
+    Publication readiness score. Used by AI checker when Vale is not installed.
+    Score each dimension 0 (fail), 1 (partial), 2 (pass).
+    Target: ≥11/14. Flag any dimension scoring 0 as a blocker.
+  dimensions:
+    - name: "Clarity and structure"
+      criteria: "Strong opening, clear argument, descriptive headings, one idea per paragraph"
+    - name: "Specificity and evidence"
+      criteria: "≥2 concrete facts/names/numbers per major section; claims with [SOURCE NEEDED] flags are cited"
+    - name: "Voice and warmth"
+      criteria: "Story beats present; you/we/contractions used; voice anchors from brief appear"
+    - name: "Cadence and burstiness"
+      criteria: "Mixed sentence lengths; paragraph density varies; one-liners used for rhythm"
+    - name: "Cliché and journalese free"
+      criteria: "Passes banned_phrases and ai_sentence_starters checks; stiff_transitions within limit"
+    - name: "Readability"
+      criteria: "Estimated Flesch 60-70; scannable structure; no unexplained acronyms"
+    - name: "Structural variety"
+      criteria: "No two adjacent sections open the same way; sections vary in length; lists anchored with setup or follow-up; at least one structural wildcard present and earned"

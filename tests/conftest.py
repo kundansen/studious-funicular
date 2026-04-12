@@ -6,7 +6,7 @@ from blog_agents import tools
 def mock_blog_context(tmp_path):
     """Automatically mock the blog context for all tests using pytest's tmp_path."""
     test_blog_dir = str(tmp_path / "test_blog")
-    os.makedirs(os.path.join(test_blog_dir, "blog_data"), exist_ok=True)
+    os.makedirs(os.path.join(test_blog_dir, "scratch"), exist_ok=True)
     
     old_dir = tools._current_blog_dir
     tools._current_blog_dir = test_blog_dir

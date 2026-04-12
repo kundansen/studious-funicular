@@ -1,4 +1,4 @@
-# studious-funicular
+# ink-and-iron
 Kundan's Personal Stash of Goodies
 
 ## Blog Agents — Copilot-Optimized
@@ -8,7 +8,7 @@ A lightweight agent framework to orchestrate writing Medium-style blogs with sty
 ### Folder Structure
 
 ```
-studious-funicular/
+ink-and-iron/
 ├── blog_runner.py          # Main CLI
 ├── blog_agents/            # Agent implementations
 ├── blogs/                  # All blogs live here
@@ -17,7 +17,7 @@ studious-funicular/
 │   └── <blog-slug>/        # One folder per blog
 │       ├── draft.md        # Raw draft
 │       ├── draft_edited.md # Edited draft
-│       └── blog_data/      # Research, refs, hero prompt
+│       └── scratch/        # Research, refs, hero prompt
 ├── chat_instructions/      # Prompts for each stage
 ├── copilot_modes/          # Copilot Chat mode templates
 └── tests/                  # pytest tests

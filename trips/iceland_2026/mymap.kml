@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Iceland Itinerary</name>
+    <Folder>
+      <name>The Golden Circle &amp; Highlands</name>
+      <Placemark>
+        <name>Golden Circle</name>
+        <address>Golden Circle, Iceland</address>
+      </Placemark>
+      <Placemark>
+        <name>Kerið Crater</name>
+        <address>Kerid Crater</address>
+      </Placemark>
+      <Placemark>
+        <name>Hrunalaug Hot Spring</name>
+        <address>Hrunalaug Hot Spring</address>
+      </Placemark>
+      <Placemark>
+        <name>Friðheimar</name>
+        <address>Friðheimar</address>
+      </Placemark>
+      <Placemark>
+        <name>Strokkur &amp; Geysir</name>
+        <address>Geysir Geothermal Area</address>
+      </Placemark>
+      <Placemark>
+        <name>Gullfoss Falls</name>
+        <address>Gullfoss Falls</address>
+      </Placemark>
+      <Placemark>
+        <name>Kerlingarfjöll</name>
+        <address>Kerlingarfjöll</address>
+      </Placemark>
+      <Placemark>
+        <name>Hvítárvatn Lake</name>
+        <address>Hvítárvatn</address>
+      </Placemark>
+      <Placemark>
+        <name>Gýgjarfoss</name>
+        <address>Gýgjarfoss</address>
+      </Placemark>
+      <Placemark>
+        <name>Landmannalaugar</name>
+        <address>Landmannalaugar</address>
+      </Placemark>
+      <Placemark>
+        <name>Háifoss</name>
+        <address>Háifoss</address>
+      </Placemark>
+      <Placemark>
+        <name>Sigöldugljúfur</name>
+        <address>Sigöldugljúfur (Valley of Tears)</address>
+      </Placemark>
+      <Placemark>
+        <name>Rauðaskál Crater</name>
+        <address>Rauðaskál</address>
+      </Placemark>
+      <Placemark>
+        <name>Bláhylur (Hnausapollur)</name>
+        <address>Hnausapollur (Bláhylur)</address>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>The South Coast</name>
+      <Placemark>
+        <name>Seljalandsfoss</name>
+        <address>Seljalandsfoss</address>
+      </Placemark>
+      <Placemark>
+        <name>Skógafoss</name>
+        <address>Skógafoss</address>
+      </Placemark>
+      <Placemark>
+        <name>Dyrhólaey Lighthouse</name>
+        <address>Dyrhólaey Lighthouse</address>
+      </Placemark>
+      <Placemark>
+        <name>Reynisfjara Beach</name>
+        <address>Reynisfjara Black Sand Beach</address>
+      </Placemark>
+      <Placemark>
+        <name>Halsanefshellir</name>
+        <address>Halsanefshellir Basalt Columns</address>
+      </Placemark>
+      <Placemark>
+        <name>Þakgil (Thakgil)</name>
+        <address>Thakgil</address>
+      </Placemark>
+      <Placemark>
+        <name>Hjörleifshöfði</name>
+        <address>Hjörleifshöfði (Yoda Cave)</address>
+      </Placemark>
+      <Placemark>
+        <name>Fjaðrárgljúfur</name>
+        <address>Fjaðrárgljúfur</address>
+      </Placemark>
+      <Placemark>
+        <name>Svínafellsjökull</name>
+        <address>Svínafellsjökull</address>
+      </Placemark>
+      <Placemark>
+        <name>Fjallsárlón</name>
+        <address>Fjallsárlón</address>
+      </Placemark>
+      <Placemark>
+        <name>Diamond Beach</name>
+        <address>Diamond Beach (Breiðamerkursandur)</address>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>East &amp; North Iceland</name>
+      <Placemark>
+        <name>Seyðisfjörður</name>
+        <address>Seyðisfjörður</address>
+      </Placemark>
+      <Placemark>
+        <name>Stuðlagil Canyon Trail</name>
+        <address>Stuðlagil Canyon (East Side Trail)</address>
+      </Placemark>
+      <Placemark>
+        <name>Hengifoss</name>
+        <address>Hengifoss</address>
+      </Placemark>
+      <Placemark>
+        <name>Stuðlagil Canyon</name>
+        <address>Stuðlagil</address>
+      </Placemark>
+      <Placemark>
+        <name>Dettifoss</name>
+        <address>Dettifoss</address>
+      </Placemark>
+      <Placemark>
+        <name>Mývatn &amp; Hverir</name>
+        <address>Hverir Geothermal Area</address>
+      </Placemark>
+      <Placemark>
+        <name>Krafla (Víti) Crater</name>
+        <address>Viti Crater, Krafla</address>
+      </Placemark>
+      <Placemark>
+        <name>Hverfjall</name>
+        <address>Hverfjall</address>
+      </Placemark>
+      <Placemark>
+        <name>Goðafoss</name>
+        <address>Goðafoss Waterfall</address>
+      </Placemark>
+      <Placemark>
+        <name>Grafarkirkja</name>
+        <address>Grafarkirkja (Hofsos)</address>
+      </Placemark>
+      <Placemark>
+        <name>Hvítserkur</name>
+        <address>Hvítserkur</address>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Westfjords &amp; West Iceland</name>
+      <Placemark>
+        <name>Hörgshlíðarlaug</name>
+        <address>Hörgshlíðarlaug Hot Spring</address>
+      </Placemark>
+      <Placemark>
+        <name>Dynjandi</name>
+        <address>Dynjandi Waterfall</address>
+      </Placemark>
+      <Placemark>
+        <name>Garðar BA 64</name>
+        <address>Garðar BA 64 Shipwreck</address>
+      </Placemark>
+      <Placemark>
+        <name>Látrabjarg</name>
+        <address>Látrabjarg Cliffs</address>
+      </Placemark>
+      <Placemark>
+        <name>Rauðisandur</name>
+        <address>Rauðisandur</address>
+      </Placemark>
+      <Placemark>
+        <name>Kirkjufell &amp; Kirkjufellsfoss</name>
+        <address>Kirkjufell</address>
+      </Placemark>
+      <Placemark>
+        <name>Ingjaldshólskirkja</name>
+        <address>Ingjaldshólskirkja</address>
+      </Placemark>
+      <Placemark>
+        <name>Svörtuloft Lighthouse</name>
+        <address>Svörtuloft Lighthouse</address>
+      </Placemark>
+      <Placemark>
+        <name>Búðakirkja</name>
+        <address>Búðakirkja (Black Church)</address>
+      </Placemark>
+      <Placemark>
+        <name>Reykjavík</name>
+        <address>Reykjavík</address>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

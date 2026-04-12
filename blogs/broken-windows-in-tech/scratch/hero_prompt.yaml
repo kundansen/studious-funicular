@@ -1,0 +1,18 @@
+title: "Cracks in the Foundation"
+orientation: landscape
+style: sumi-e ink wash, minimalist
+
+elements:
+  - building_form: "an abstract structure rising from the bottom, rendered in bold ink strokes — suggesting a wall or tower being constructed"
+  - embedded_fractures: "hairline cracks and imperfections woven into the bricks themselves, not on the surface — the damage is intrinsic, built-in"
+  - flowing_bricks: "bricks at various stages of formation, some still wet ink, some solidifying — suggesting rapid construction"
+  - absent_blueprint: "a faint, ghostly grid or schematic in the background, incomplete and fading — the intent is missing"
+  - single_window: "one traditional window frame, cracked, positioned mid-structure as a focal point"
+
+mood: uneasy stillness, rapid growth with hidden fragility, tension between speed and care
+
+color_palette: deep blacks and soft grays; one subtle amber glow through the cracked window suggesting something watchful inside; mostly monochromatic with restraint
+
+negative_prompt: "no robots, no computers, no screens, no text, no logos, no photorealism, no bright colors, no people"
+
+notes: "The central metaphor is graffiti embedded in the bricks as they're manufactured — damage that's structural, not superficial. The building should feel like it's rising fast but carrying hidden flaws. Empty space around the structure suggests isolation or abandonment of intent. The fading blueprint in the background represents missing rationale."

@@ -24,7 +24,7 @@ Within the span of two centuries, the same word came to describe both a liabilit
 
 ## The Boring Years (That Actually Mattered)
 
-Computer science had its own agents long before anyone tried to sell them on LinkedIn, starting with Alan Turing's 1950 thought experiment, then ELIZA in 1966 pattern-matching her way through therapy sessions, and eventually the expert systems of the eighties that were rigid and brittle as a dried-out contract.
+Computer science had its own agents long before anyone tried to sell them on LinkedIn, starting with Alan Turing's 1950 thought experiment, then ELIZA in 1966 pattern-matching her way through therapy sessions, and eventually the expert systems of the eighties that were rigid and brittle as a dried-out contract negotiation.
 
 The serious foundational work came in 1995, when Michael Wooldridge and Nicholas Jennings defined an "intelligent agent" as a system with autonomy, reactivity, proactiveness, and social capability. The Belief-Desire-Intention (BDI) architecture gave software systems something resembling a decision-making framework: what do I know, what do I want, and what am I going to do about it.
 

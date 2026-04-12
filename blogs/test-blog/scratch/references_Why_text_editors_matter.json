@@ -1,0 +1,19 @@
+{
+  "refs": [
+    {
+      "title": "Paper 1 on Why text editors matter",
+      "url": "https://doi.org/mock/1",
+      "note": "Relevant background"
+    },
+    {
+      "title": "Paper 2 on Why text editors matter",
+      "url": "https://doi.org/mock/2",
+      "note": "Relevant background"
+    },
+    {
+      "title": "Paper 3 on Why text editors matter",
+      "url": "https://doi.org/mock/3",
+      "note": "Relevant background"
+    }
+  ]
+}

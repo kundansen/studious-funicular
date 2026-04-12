@@ -1,0 +1,300 @@
+BEE-LIAN QUAH
+Associate Partner, IBM
+Bee-Lian Quah is an Associate Partner in IBM's Financial Services practice. With over twelve years of experience, she partners with her clients to envision and map out their
+long-term strategies and transformations for their businesses through the combination of human-centric design, business process optimization, and modern technologies.
+Most recently, she has been supporting her clients with Al strategy and prioritization of high-value use cases to drive broader transformation and the acceleration of their path
+to value realization. Bee-Lian has experience standing up and running large, complex programs and is most passionate about pulling together diverse teams to create new
+experiences and business models. Bee-Lian leads the corporate development committee in Ascend NY Metro, collaborating with sponsors to secure support and curate community events.
+
+MONA JOLLY
+Partner, PwC
+Mona Jolly is a Partner in PwCs Workforce Transformation practice in New York, with over 14 years of consulting experience. Mona has a broad range of experience in
+workforce strategy and its subsequent impacts on employee experience, organizational culture, talent management and upskilling. Mona has led the workforce and change
+management initiatives for various organizations as they have embarked on digital, organizational, and regulatory driven transformations.
+With the introduction of Al, coupled with the ongoing volume of change impacting financial services organizations recently, Mona has advised clients on a number of
+talent focus areas, such as: considering the people & culture implications of Al and technology disruption, attracting and retaining key talent, elevating upskilling and
+reskilling strategies through innovation, and defining companies' purpose and values to align with model changes.
+
+CHRISTINE TU
+Managing Director. Head of Al & Knowledge Management, Wealth Management Technology, Morgan Stanley
+Christine is a distinguished engineer and managing director, currently serving as the Head of AI, ML, and Knowledge Management at Wealth Management Technology. She is a visionary leader, spearheading the Wealth and GenAl strategy and implementing GenAl-enabled applications for field users and various business lines. Christine also heads the GenAI Center of Enablement and oversees the development of the foundational GenAl framework and components that are leveraged across the firm. Under her leadership, Christine and her team successfully implemented and rolled out
+the first GenAl application on Wall Street. a feat that earned them the prestigious Celent and Banking Tech Award in 2024. At Morgan Stanley, Chrisine has played a
+pivotal role in setting the strategy and roadmap, as well as executing the integration and transformation of Contact Center Platforms. Before joining Morgan Stanley, Christine had a successful career at Bank of America/Merrill Lynch. Christine also managed the largest IVR in the financial industry, leading automation and digital service, and developing voice-enabled chatbots
+
+SHIRAZ SAEED
+Vice President, Cyber Risk Product Leader, Arch Insurance
+Shiraz Saeed leads the Cyber Risk product for Arch Insurance Group. Shiraz is responsible for the strategic direction for the underwriting, distribution, and marketing of the Cyber Risk products and services offered by Arch. He also leads the Technology and Telecommunications Industry Practice Vertical. Shiraz joined Arch in 2021 and has over 10 years in the cyber risk industry.
+He started his tenure in the insurance industry within the professional liability division of American International Group (AIG) and quickly progressed to be part of the Cyber Risk product team responsible for the east coast territory. Most recently, Shiraz was the Practice Leader for Cyber Risk at Starr Global Insurance, where he oversaw the strategic direction for their Cyber Risk products and services. With his extensive experience, Shiraz is able to help stakeholders both internally and externally better understand the complexity of cyber risk, while also working with them to create solutions to help manage it.
+
+
+# Introduction by the organizers 
+
+I'd like to welcome on behalf of Citi for those who travel also town to join us and you know our city colleagues coming downstairs to join this conference. I know you have a lot of options this
+afternoon so thank you for being here at this conference for your choice to be here at this session. For our panel AI your innovative advantage. I know AI is no longer a hype right it's a course to stay and it's been a dominating headline topics for a few years maybe to your podcast feeds and your newsletter feeds. So whenever there is a leap in technology we always wonder for ourselves what's in there for me how should I innovate myself and stay ahead of the trend. So today our panelists are not only the top leader but the industry practitioner in this space. So first let me introduce our moderator Bee-Lian Fuang. So Bee-Lian is an associate partner in IBM's financial services practice. With over 12 years in Epoch experience she partners with her client to envision and map out their long-term strategies and transformations by combining human centric design business process optimization and modern technologies. Most recently Bee-Lian has been supporting her client with AI strategy and prioritization of high value use case of broader transformation and accelerating the value realization. Bee-Lian has experience standing up and running large complex programs. She is most passionate about pulling together diverse teams to create new experiences and business models. In a stand New York Metro Bee-Lian leads the corporate development committee and collaborates with sponsors for curated community events. So Bee-Lian off you go for the panel.
+Thank you.
+Thank you.
+
+# Bee-Lian : introduction of the panelists
+
+Thanks all for coming to our panel today. I'm very very excited about the discussion we're about to have. As Ray was saying, right, AI is here to stay.
+There's a lot of investment going into it. One of the studies that we've done at IBM, one of our CEO studies, predicting that, you know, the investment in AI is
+going to increase by 4x at least over the next two, three years. I imagine it could be even more than that. But we have a really exciting panel for you
+today. We're going to explore various use cases that our panelists are working with their teams on some of the risks and, you know, concerns that we're
+addressing as we're implementing AI and also we're thinking about AI in terms of the future and where we see it going. So with that, I want to introduce our
+panelists. 
+
+We have Mona here from PWC. She's a partner in our workforce transformation practice. So really excited to hear Mona's inputs on the work
+with her clients and the talent space and how it's impacting, you know, the way we work. 
+
+Christine, really excited to have Christine Tu with us from Morgan Stanley.
+Christine is a managing director. She's a head of AI and knowledge management within the wealth space. And I'm very excited to hear her stories because she has been really a pioneer in this space standing up a lot of AI technologies over the years. And so I think we have a lot to learn from Christine.
+
+And then Shiraz Saeed from Arch Insurance. So Shiraz is the head of product for the cyber risk product area within Arch. And, you know, I think it's a completely different angle. So I think
+you're going to be able to share some really unique perspectives coming from more of the product lens and insurance lens. A really different dimension to what we're going to do today. 
+
+So I will let them, you have their profiles in the program book. So we're going to let each of them introduce themselves a little bit more.
+
+# Bee-Lian
+
+what is your favorite kind of application of AI that you see? Could be professional, could be personal use of it, but what has been your favorite kind of use of AI?
+
+# Mona
+
+Okay, hi everybody. My favorite application is actually more probably on the personal side. I
+haven't done this myself, but I've heard, I'm sure a lot of you have done this, but I've heard of
+people create bedtime stories, like using ChatGPT to create bedtime stories for their kids.
+You feed it like a character, you feed it sort of a narrative that you want it to tell, and it
+creates a story. But not only that, it can actually then create a series of stories. So if you ask
+it for a different story every day, it will build upon the story it told you the name for. So I
+thought that was really cool. And tell us more about your role in VWC, kind of your journey of it.
+Yeah, I've been with VWC for 14 years. I'm a partner in our workforce transformation practice.
+We really focus on like the people implications of any kind of transformation. A lot of it is
+technology, digital. Of course, these days, you know, a lot of conversations about AI. And now that
+people are starting to think about, you know, the infrastructure, the governance, and how we're
+going to use AI, you know, a lot of organizations are now starting to think about how am I going
+to upskill people to use it effectively, to use it alongside their jobs, and to navigate,
+you know, what the new world is going to look like in the next six months, year or two years.
+
+
+# Christine
+
+I'm a managing director and also I want to add, I'm also a distinguished engineer and work in MOrgan Stanley, 
+head of AI and machine learning and wealth management technology. I have the privilege of
+leading the technology team in the past three years to really embark on the AI journey, right? We have a lot of
+pilot field teams and then roll out applications to our financial writers and the teams. So I can
+definitely share some stories about, you know, how we build it and journeys and some of the
+topics you mentioned before. In terms of, you know, applications, I really think, you know,
+generative AI is going to transform a lot of areas, especially education and healthcare. My personal
+favorite is, um, ChatGPT. I actually got a paid version because I really want to save the latest.
+I, you know, because I'm doing this, I want to see what's out there. Yeah. And, you know,
+what is it? Research and development costs. Right. I'm like, you didn't expense that.
+No, it's all right. Morgan Stanley pays as well. $20 a month.
+Yeah. So, um, no, but it's great. And there's, you know, um, complexity and things like that,
+you know, it's, it's for free. You can try it, um, if it's in your home.
+
+# Shiraz
+
+So, uh, I'm Shiraz Saeed, I'm the product leader for cyber technology risk at Arch Insurance. So,
+basically for those in the room that do financial services, uh, lead underwriting, uh, for cyber
+and technology risk. So, uh, sort of a unique perspective because right now, I think in insurance
+and professional services in general, large language models are creating a revolution for us
+and ChatGPT because typically in the past, content creation wasn't done by technology. It was done by
+us. And now you've got this new medium that can create content. So it's interesting for me because
+we're working on our own projects internally at Arch so that we can better underwrite and do those
+things. At the same time, we do cyber security. So all the cyber security revolves around AI and deep
+fakes and security for like how you use tools to prevent attacks and how criminals are using it to
+make attacks happen. And in the third instance, we actually underwrite companies that provide
+professional services. And when you make errors in professional services, we ensure that.
+And how are professional services changing because of AI, right? Like I said to me in the lead up when
+we were talking, like you work at IBM, I usually will tell the audience if we hire IBM, do we hire B or
+do we hire Watson or do we hire both of them, right? And I think this combination of human consulting and
+leveraging the technology for our advisory services is pretty cool. And I like that. But I grew up when
+search engines first started. So before there was Google and stuff, there was Ask Jeeves. And when you
+were in college, you're like, Oh, I gotta write this paper. Let me figure it out. Let me go on to these
+search engines. And you would use different keywords and everything like that. But now with Gemini, I could just
+type in a question and I get a whole explanation. And what I really liked about it, it also cites
+everything. So the article from which they're pulling it, it does it. And then anybody who plays
+fantasy football, are you here to play fantasy football? None of those? A few, a few. Yahoo has a feature where they do a
+recap where they use AI and ChatGPT particularly. So that's another one I like because it gives you like
+Shiraz's fantasy team's projectsions.
+
+
+# Christine
+
+Right, but it's mostly dealing with structured data, right? So we embarked on a journey of trying to understand non-structured data, mostly language, six, seven years ago, right? We were trying to provide a good virtual assistant to help our field to find their information, whether it's about products, procedures, or, you know, research.
+In fact, accurately and efficiently, but there's no good tools, right? You can do a search, you can do a combination of plans, the keyword search, and adding metadata.
+We also developed models based on Stanford library, you know, natural language processing, maybe five or six years ago ourselves.
+The result wasn't that great, right? The technology wasn't there.
+So, three years ago, when GPT-3 came out, when OpenAI, you know, started their commercial exploration, and we discovered that, we were ecstatic, right?
+Hey, this is it. So that's, you know, it's not like, you know, we just stumbled on the technology and just started using it.
+We were actually looking for a solution to solve our problem. And the technology, when it surfaced, we grabbed, you know, the opportunity.
+So, we started, you know, doing POC, so all, you know, three years ago. That is way before TAPTP was out. That was, you know, we started building a RAD solution for our assistant.
+That was before RAD was even at work, right? R-A-G. Now everybody knows it's a pretty standard implementation for you to use your own knowledge and use Trump engineering to prompt it, right?
+So, we rolled out, we developed the first virtual system, but it took us eight months after pilot to actually feel comfortable and got into a good quality that we can actually roll out, right?
+Out of the box, 50% of accuracy or coverage, and then you go through your evaluation and feedback and all that good stuff, and then, you know, gradually improve, right?
+The quality, it goes to over 95%, and then you say, hey, we're good, right? So, we rolled out to the field a year ago, right?
+It's, you know, it's, you know, a penetration by our, you know, financial advisors is more than 87%, so it's actually a really good tool that's being used in five fields.
+And also, we rolled out, you know, we developed another one, you know, our financial advisors can actually summarize their meanings with the client, generate summaries, and also generate draft email, and then they can do the follow-up with client.
+It's also, you know, we gain a lot of, you know, praise from our fields. So, those two are kind of flagship type of Gen.AI application. The assistant was, you know, by CIPC, it was claimed to be the first one on Wall Street using Gen.AI, and, you know, the debrief is a, you know, second big one.
+But we also, I think what's important is, not just to say, hey, I roll out one use case, I do another use case. We need to pull all the lessons learned, and also we establish a central governance, you know, it's called central enablement, that we actually start building new platforms, and also having, working very closely with our LRC partners to actually move forward those use cases for different lines of business.
+I think that's true.
+Yeah, so now you're starting to get more scale as you go. You've done the hard job of the first few, right? And now it should be a little easier as you continue to roll it up. Wonderful.
+Sure, how about an arch?
+
+
+so now you're starting to get more scale as you go you've done the hard job of the first few right and now it should be a little easier as you continue to roll it up
+wonderful!
+
+
+# Christine
+
+Well, we cannot use AI or Gen AI to do recommendations.
+First of all, you know, you go to any of the use case, you want to say this is a no, okay?
+So what we're using for is really to be efficient, productivity, always right now having always human in the loop, right?
+But even for the application that's human in the loop, you still need to make sure the trust and accuracy is there, right?
+How do you do that?
+You know, I mentioned earlier the rag is one of the solutions.
+You need to make sure, right, you feed your data over to the LLMs and you use your prompt engineering to anchor the LLMs to give you the answer that is appropriate, right?
+So it sounds easy, you just send a bunch of prompts and a bunch of data.
+But to actually make it work, you need to have many iterations, you need to have the proper metrics to evaluate.
+And also, what is good?
+You know, how do you measure a write-up that is good enough for you to accept it?
+So there are multiple ways to do it, right?
+We provide, for example, if it is a search or answer, question and answer related, we have to quote the source.
+Just like you mentioned, Gemini gave you this is the article, this is the third paragraph.
+We also actually provide the reasonings behind the saying, right?
+Because LLM can actually provide them, you know, how they derive this answer.
+We don't give it to the end user, but we have, you know, this information fed to our evaluators, right?
+And also, how do you actually repeat, you know, your tests again and again?
+Because, you know, whenever there is a data change or, you know, something changed, you really need to do your regression test.
+Because in the past, right, with traditional program, you have your test group.
+You're feeding A, you accept B, you expect B to come out.
+And if it's not B, you say, yeah, QA failed, right?
+And now, this one is, every time you run a test, it may give you a little bit different response.
+But as long as they are within the threshold, right, of the measurement you put in, the guardrails you put in, it's okay, right?
+So this whole evaluation cycle is so critical, right?
+We have to make sure we have it.
+And even after you measured it pre-production, you get your feedback, you know, every week to see how it performed,
+you still need to make sure that continuous monitoring needs to be in place, right?
+So it's never, you release the production, you make sure it's less stable, you don't have production problems.
+This is actually a very different type of application we need to get used to.
+
+
+# Christine
+
+I will count for that. Really? Yeah, I will count for that. I have team members here, and I can tell you, obviously we need counting people everywhere. We need people who understand data science, but at this stage, if you think about why there's so many AI startups today, right, 25,000 in the past two years, it's because the Large Language Models (LLMs) or the AI, Gen AI has lowered the entry point for people to get their hands on AI, right?
+Before, with, you know, the machine learnings, you know, you really need data scientists and, you know, data science engineers to deploy those models, test those models, but nowadays, if you set out to use the foundation models, you work out your cloud strategy, and your people can be application integrators, right?
+They can be the one knowing business. They need to know prompt engineering. They need to know how to, you know, do the API calls and all that, and craft a good UI or combination UI for that application to work, and this is how we actually work.
+It's not like we all of a sudden go out and hire a bunch of, you know, machine learning engineers or things like that. We actually utilize most of our engineers to do the AI work.
+I gave you an example. Last year, last July, we actually did a firm-wide Gen AI hackathon. 3,000 people participated. 400 projects were implemented within that week, 48 hours. Actually, people got it up and running, right?
+So, I feel like, you know, there is a miss for people to say, hey, you know, I have to get to the skill set that's so high that I can do AI. I think it's opposite now. It's opposite now that it kind of makes sure people who understand business, who have, you know, our best prompt engineers and people who can actually do the evaluation is the liberal art, you know, background, and she's the one beating the whole evaluation.
+And this is amazing, right? So, I think if you have the desire to learn and you have the basic skills to work with, you know, programs, and even software development is going to get easier and easier, maybe one day it's more about giving commands of your goal and, you know, that software agent will be created and writing some code and self-tested and one day, you know, you'll be self-released.
+That's something that starts in the next few years. But, you know, sorry, I do agree with you. We do need talented people, but this is a little bit different.
+
+# Shiraz
+
+Where I was going with, and you touched on it, is design and UI. Design and UI, right? And I think that's the sort of the talent shift, right? Where I feel like there needs to be more design and UI people. There's a tremendous amount of opportunity there, which is different than the coding, right?
+Right. It's like, it's like, it's like, I can equate it to like construction of a home. The UI designer is the interior designer, while the architect and the engineer might be making the structure and the, you know, the plumbing and everything inside. So, I think the design piece and the UI piece is where we probably need more.
+
+# Christine
+
+Right. I also do think, you know, AI is the one that we don't need a whole lot of push for people to use because they've already labored off that, right? So, our business is asking for AI solution. Our technologists are asking for AI solution.
+It's more of how do you pull the education out, making sure people can use it in a safe way. People can actually create applications in a safe and effective way. So, you know, I think we have a long way to go, but turn your current workforce into AI, you know, group of AI users and AI creators. Absolutely.
+Oh, yeah. We, I mean, we, we do the same thing. We call them activators.
+
+# Christine
+
+
+You know, definitely no crystal ball, right? So I can see maybe within five years there will be changes to software involvement, right? Because, you know, with where it's going, you know, models are getting better and better, they have reason, right? And we're going to get more and more tools provided by all those talented people, you know, all the startups and the big tech companies working on solutioning the accuracy, you know,
+transforming this. I do think it's going to help us to definitely create more, you know, efficiency. However, within the heavily regulated industry, I also know, you know, for example, CICD (continuous integration continuous deployment) has been out there for years, right? Basically, if you want to do it, you can click a button and move your software from A to B to production if you want. But we don't do it. We don't do it for a good reason, right?
+So I think even with the technology being able to do a lot of things, we still will have all the guardrails and the governance and human in it, right?
+Maybe not necessarily every human to do what they do now. Their roles may be changed, but it's not going to be just one click and then everything will be gone, right?
+So maybe some of the lower level or repetitive work can be replaced, you know, can be done by an agent. And I also think that gives us or experienced, you know, whether it's engineers or business, the opportunity to actually think and design new things.
+So, you know, 20 years ago, we didn't know how internet is going to evolve to today, right? How it changed the whole e-commerce, the whole, you know, you're using your phone as a computer.
+You know, it's very transformative. I think it is as transformative as internet. But how it's going to end up, I don't know. But personally, I really hope it can help the healthcare industry.
+I think that's, you know, one of the things is going to do good to the society, to the society, human, you know, healthcare, elderly care, right? And also education, right? Financial firms, we're going to do as much as well, but I think, you know, it should be always in a very safe place because, you know, we're entrusted by people's financial and their money.
+
+
+# Christine
+Yeah, I will go back to what I said earlier.
+There's just, it's evolving, right?
+So for us, for everyone, learn it, right?
+And then study it and also try it and also do something with it.
+And I think all of us should be, you know, aspire to lead, right?
+As you just said, you've got to lead or have the aspiration to lead
+that you can influence it.
+This is a very, very powerful, transformative technology.
+Let's use it for good, right?
+You can't step out and say, hey, it's going to pass.
+
+# Shiraz
+I'm going to echo what I said before.
+I would implore all of you that are looking for an opportunity
+in your own offices to go into your business unit,
+talk to the leader about what is your business unit doing about AI
+because I guarantee you they're looking for someone to volunteer, right?
+And what I've learned over my 15 years in this career is I underwrite cyber and technology.
+I'm not a technology person.
+I never had a degree in computer science and everything, right?
+But people assume based on my background that I must be, and I ran with it, right?
+But what I learned is if no one else in the room understands it and you do,
+they're just going to say, that person understands it, they're in charge, all right?
+And that's the position you want to be in because you had an opportunity to come here.
+You can do your own research.
+And if you have a positive attitude, you work hard, and you have a curiosity to learn,
+you're going to be successful in whatever role you do.
+And this is an opportunity right now for you to make a difference in your own career
+leveraging this opportunity in the marketplace.
+There's a wealth of information out there to learn about it, right?
+There's no shortage of trainings and information that you can get access to to learn.
+
+# Mona
+I completely echo what's already been said.
+Like, it doesn't, you don't need to become an expert or, you know, like, you just, like,
+listen to a podcast, read articles, like, learn a little bit more about where things are going
+and then play around with it and experiment it even in your personal life and ask it, like,
+you know, go to Florida, give me, maybe not Florida right now, but, you know,
+go to London next week, like, what, you know, what should I do?
+Like, ask it and see what it can do and what it can't.
+I mean, it's really incredible, like, what it can do these days.
+So then figuring out how you could apply it to your day-to-day jobs and, yeah,
+talk to your bosses, talk to your leaders, tell them what you've been doing,
+show them, and I'm sure they're going to get excited about it.
+
+
+# Audience question 1
+
+How are the use cases get selected or prioritized in a big corporation because everybody will want to know, like, we want this, we want that, and typically I was told that there's a working group and they identify, but then you also have your so-called clients, they have a demand, so can you just basically high-level summarize how it typically gets done?
+
+# Christine
+Yeah, well, people blame me when they cannot get their use cases, but, you know, we do have, you know, central enablement, we have AI steering group that's actually sitting at the highest level at the firm, so they, you know, people submit their use cases.
+We gave them the experimental zone or playground for them to actually try out.
+We also gave them the opportunity to actually integrate with their application in a sandbox environment, very safe, right, but it's a lower environment.
+They can actually test out.
+So once they get to a very comfort level, they may want to, hey, push their business leader or their technology leader and say, hey, can we get this prioritized for real, you know, production of our pilot?
+So we have a process, right, but, you know, business value is being looked at.
+There is a cost, right, for every single need, and also there's bandwidth.
+With our, you know, legal compliance and model review group, they cannot take so many, you know, applications, right?
+So prioritization also comes from the LRC partners who say, hey, this is higher risk, this is a median risk, so maybe we'll tackle the lower risk or median risk one, right?
+So there is, you know, a lot of criterias we're putting, so, you know, usually when you say a use case cannot go to production that will not be prioritized, it's probably falling to a certain category.
+It's either, you know, high risk or it's going to take a lot of effort or it doesn't provide a whole lot of business value.
+That's what I was going to say.
+You've got to have to make the most money.
+The business unit that makes the most money gets a lot of priority.
+
+# Audience question 2
+
+I know we're always talking about, you know, way to advantage, but I've found in an area for recruitment, it seems to be a disadvantage because the resumes get auto-rejected.
+Any thoughts you have on how to beat the system and make the resume be reviewed by at least an HR?
+
+
+# Shiraz
+
+I, it racks my brain all the time. I cannot help you there. I'm no lead to the HR person to help you.
+
+# Mona
+
+Yeah, this is like a huge topic. You know, there's like bias. You know, AI has its own biases and it's like, it looks at location, it looks at like the spellings of different names and it creates its own biases about, you know, like job, like throwing out job applications.
+And so it's a huge topic, like how do you eliminate bias? That's why you still need the human element in the review of these, of the job applications.
+On the other side of it, it's actually what we're seeing a big uptick in use cases to be built for is job descriptions.
+So how do you build a job description in a way that is also excluding a lot of that bias?

@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "title": "Result 1 for Why text editors matter",
+      "url": "https://example.com/Why text editors matter/1",
+      "snippet": "Short snippet"
+    },
+    {
+      "title": "Result 2 for Why text editors matter",
+      "url": "https://example.com/Why text editors matter/2",
+      "snippet": "Short snippet"
+    },
+    {
+      "title": "Result 3 for Why text editors matter",
+      "url": "https://example.com/Why text editors matter/3",
+      "snippet": "Short snippet"
+    }
+  ]
+}

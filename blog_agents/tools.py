@@ -12,11 +12,11 @@ _current_blog_dir: Optional[str] = None
 
 
 def set_blog_context(blog_name: str) -> str:
-    """Set the current blog context. Creates the blog folder and blog_data subfolder."""
+    """Set the current blog context. Creates the blog folder and scratch subfolder."""
     global _current_blog_dir
     slug = slugify(blog_name)
     _current_blog_dir = os.path.join(BLOGS_ROOT, slug)
-    os.makedirs(os.path.join(_current_blog_dir, "blog_data"), exist_ok=True)
+    os.makedirs(os.path.join(_current_blog_dir, "scratch"), exist_ok=True)
     return _current_blog_dir
 
 
@@ -28,8 +28,8 @@ def get_blog_dir() -> str:
 
 
 def get_data_dir() -> str:
-    """Get blog_data directory for current blog."""
-    return os.path.join(get_blog_dir(), "blog_data")
+    """Get scratch directory for current blog."""
+    return os.path.join(get_blog_dir(), "scratch")
 
 
 def slugify(text: str) -> str:
@@ -41,7 +41,7 @@ def slugify(text: str) -> str:
 
 
 def save_artifact(name: str, content: str) -> str:
-    """Save artifact to current blog's blog_data folder."""
+    """Save artifact to current blog's scratch folder."""
     path = os.path.join(get_data_dir(), name)
     with open(path, "w", encoding="utf-8") as f:
         f.write(content)
@@ -49,7 +49,7 @@ def save_artifact(name: str, content: str) -> str:
 
 
 def save_draft(name: str, content: str) -> str:
-    """Save draft markdown to blog root (not blog_data)."""
+    """Save draft markdown to blog root (not scratch)."""
     path = os.path.join(get_blog_dir(), name)
     with open(path, "w", encoding="utf-8") as f:
         f.write(content)
@@ -70,7 +70,7 @@ def fetch_webpage(url: str) -> Dict[str, Any]:
 
 
 def save_json(name: str, data: Dict[str, Any]) -> str:
-    """Save JSON to current blog's blog_data folder."""
+    """Save JSON to current blog's scratch folder."""
     path = os.path.join(get_data_dir(), name)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)

@@ -1,0 +1,53 @@
+You will help me summarize an event we had recently. I will give you the transcript from the live event, with names of people and what each of them said. You will come up with an interesting to read format to summarize the event.
+
+The event was in 3 parts:
+- Opening Remarks
+- CIO Panel discussion
+- RED co-chairs panel discussion and wrap-up
+
+I will give you the transcript in the next prompt. 
+You will ask me questions about any clarifications I can help with. 
+I will answer your clarifications.
+You will get to writing the event recap only after there are no clarifications left.
+
+You will use a modern, business-professional tone, in basic global english, focusing on the ase of reading by the reader.
+
+
+The summary of the event will follow this structure:
+1. Executive SUmmary
+2. Opening renarks from Mike Pizzi
+3. Summary of the CIO Panel, starting with a paragraph summarizing the key points overall, then going through each of the CIOs and summarizing their portion
+4. Summary of the Co-Chairs Panel, starting with a paragraph summarizing the key points overall, then going through each of the co-chairs and summarizing their portion
+5. Call to Action - summarize all next steps mentioned by all the speakers
+
+
+Here is some context about the event:
+
+The event was on the occasion of Race and Ethnic Diversity (RED)'s 5-year anniversary at Morgan Stanley. RED is an Employee Resource Group (ERG) that aims towards improved representation and retention of diverse talent in the firm, as well as giving people from diverse backgrounds a sense of inclusion and belonging. 
+
+Here's a list of people you will see throughout the transcript:
+- Michael (Mike) Pizzi, global head of US Banks and global head of Technology. His 4 direct reports, CIOs of each of the silos under him, are:
+- Stephen (Steve) Mavin, head of Institutional Securities Technology
+- Sal Cucchiara, head of Wealth Management Technology
+- Katherine Wetmur, head of Cyber Data Risk and Resilience
+- Michael (Mike) Poser, head of Enterprise Tech and Services
+
+Our panelists for the second panel were the co-chairs of RED:
+- Al Ramos
+- Ivy Gong
+- Anthony Piggott
+- Sherette Constant 
+
+Our moderators for the two panels were
+- Marta Decatrel
+- Yoko Nitta
+
+The final wrap-up was done by
+- SHavonne Gordon, global head of diversity
+
+Here are some acronymns used throughout the transcript:
+RED is Race and Ethnic Diversity, and employee resource group
+BEN is Black Employee Network, another employee resource group
+AAPI is Asian American and Pacific Islander, another employee resource group
+NSBE is National Society of Black Engineers, a US-based networking group external to our firm
+
