@@ -441,8 +441,19 @@ Format (Medium-optimized):
 
 ---
 
+*Further reading: [Compressed paragraph-style citation list — one flowing sentence per source, no bullet points, no headers. Format: Author's [Title] (year) [brief descriptor of what it contributes — one clause]. Sources should appear in the order they are most relevant to a reader who wants to go deeper, not the order they appeared in the piece. Only include sources actually cited or drawn on in the draft, not the full research list. Aim for 2–5 sentences total.]*
+
+---
+
 **Tags:** {5 Medium tags, comma-separated}
 ```
+
+**Further reading format notes:**
+- Prose paragraph, not a bullet list — no dashes, no numbers, no headers within it
+- Italicised block (wrapping `*...*`) to visually separate from the body
+- Each source: title in plain text (not hyperlinked in the draft — Medium handles links at publication), year in parentheses, one-clause descriptor of its contribution to this specific piece
+- Keep it tight: 2–5 sources, each earning its sentence by being something a curious reader would actually want to pursue
+- Omit sources that are tangential or adequately described by the inline citations already; this is a reader guide, not an academic reference list
 
 ### Output 2: Hero image prompt
 
@@ -472,20 +483,24 @@ avoid:
 emotional_tone: "[single word or short phrase — contemplative, tense, hopeful, etc.]"
 ```
 
-### Output 3: Teams hook
+### Output 3: LinkedIn / Teams hook
 
 File: `{slug}/{slug}-hook.md`
 
-Write 2–4 sentences. The shorter the better — ideally 2.
+Write 3–5 sentences across 2 short paragraphs.
+
+**First sentence is the most important.** It must stop the scroll on its own — a specific, visceral image, a surprising claim, or a tension the reader immediately recognizes. Avoid abstract openings ("In today's world...", "Many people..."). Think: what's the sharpest thing in this piece, rendered in one sentence?
+
+**Second paragraph** delivers just enough of the argument to make clicking feel necessary — without summarizing. Name the frame or the anchor (the concrete story or data), but leave the resolution for the article.
 
 Goal: intrigue without revealing everything. Treat the reader as smart. Avoid:
 - Summarizing the blog
 - Using "In this blog I..."
 - Hype language
 
-The hook should make someone with 3 tabs open stop and click.
+Include the placeholder: `[LINK]` at the end of the second paragraph.
 
-Include the placeholder: `[LINK]`
+**End with LinkedIn hashtags** — 4–6, on their own line after `[LINK]`. Choose tags that are specific enough to reach the right audience (e.g. `#CareerGrowth`, `#Leadership`) and at least one that reflects the blog's domain or hook (e.g. `#Psychology`, `#WorkplaceWisdom`, `#SoftwareEngineering`). No generic catch-alls (`#Life`, `#Motivation`, `#Success`).
 
 ### Output 4: Final handoff update
 

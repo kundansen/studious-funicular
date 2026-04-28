@@ -1,0 +1,33 @@
+# Hero Image Prompt — The Forge and the Workshop
+# Style selection rationale: The piece is reflective and contemplative — it moves slowly
+# through history and psychology before arriving at a quiet diagnostic close. Sumi-e
+# matches this tone. The subject (two environments, two kinds of heat) has a natural
+# visual split that works in asymmetric ink-wash composition. Charcoal would be too
+# urgent; woodblock too declarative. Sumi-e is the right call.
+
+art_style: "East Asian ink wash painting (sumi-e) — dry-brush, poetic tone"
+aspect_ratio: "landscape 16:9"
+concept: >
+  Two spaces divided by a field of pale negative space. On the left, the suggestion
+  of a performance — raw, crowded, heat implied by compressed lines and heavy ink.
+  On the right, the interior of a recording room: sparse, precise, a single figure
+  working at something still and deliberate. Neither space dominates. The eye moves
+  between them, sensing that one prepared for the other without either knowing it.
+  No people rendered in detail — presence implied by posture, shadow, gesture only.
+composition: >
+  Asymmetrical, horizontally split by open space rather than a line — the two
+  environments separated by a field of pale wash that reads as time, not distance.
+  Left side weighted with darker ink and movement; right side lighter, more precise.
+  The blank center is load-bearing.
+palette: "Soot-black ink on aged ivory wash — no color. Gradients from near-black to near-white only."
+avoid:
+  - "photorealism"
+  - "symmetrical or centered composition"
+  - "guitars, microphones, or other literal music iconography"
+  - "corporate or office imagery"
+  - "modern tech elements"
+  - "human faces rendered in detail"
+  - "stock-image genericness"
+  - "any text, labels, or watermarks"
+  - "split panels with hard borders — the divide should be atmospheric, not geometric"
+emotional_tone: "contemplative — two silences, each carrying the weight of the other"

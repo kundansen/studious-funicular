@@ -19,7 +19,7 @@ meta:
     target_flesch: "60-70"       # General audience target
     technical_lower_bound: 50    # Acceptable floor for technical content
   stiff_transition_limit: 2      # Max occurrences per document (warning above this)
-  allow_and_but_sentence_starts: true   # Allow sparingly; flip to false to ban
+  allow_and_but_sentence_starts: false  # Banned. See conjunction_starts rule group.
   default_image_style: "East Asian ink wash painting (sumi-e)"
   image_style_notes:
     - "Dry-brush ink wash, poetic tone"
@@ -163,6 +163,22 @@ ai_sentence_starters:
     - "Make no mistake:"
     - "At the end of the day,"
     - "When all is said and done,"
+
+# =============================================================================
+# RULE GROUP 2b: Conjunction Sentence Starts
+# Zero tolerance. Rework the sentence to flow without the opening conjunction.
+# =============================================================================
+conjunction_starts:
+  severity: error
+  description: >
+    Sentences opening with "And" or "But" are a common AI cadence tell
+    and a shortcut around the work of a real connective. Rework to flow
+    without the conjunction, or fold the clause into the preceding sentence.
+  ignorecase: false
+  pattern: '^(And|But)\s+'
+  tokens:
+    - "And "
+    - "But "
 
 # =============================================================================
 # RULE GROUP 3: Stiff Academic Transitions

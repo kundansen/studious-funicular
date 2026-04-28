@@ -1,0 +1,16 @@
+title: "The Silicon Memory Palace"
+orientation: landscape
+style: sumi-e ink wash, minimalist
+
+elements:
+  - element_1: "An ancient Greek marble pillar turning halfway into digital fiber-optic cables or glowing data shards"
+  - element_2: "Soft, fading ink wash background suggesting a massive, endless library or 'memory palace' stretching into mist"
+  - element_3: "A delicate, precise slash of ink connecting two distant points, symbolizing the 'thin-slicing' of transactive memory"
+
+mood: contemplative, quiet, intelligent, bridging antiquity with futurism
+
+color_palette: deep blacks and soft grays; optional single accent color of electric blue; mostly monochromatic
+
+negative_prompt: "no robots, no computers, no text, no logos, no photorealism, no bright colors"
+
+notes: "The key metaphor is the 'Memory Palace'—a physical, ancient place of reflection that mirrors the structure of a digital vector database. The image should capture the grandeur of human memory mapping seamlessly into the digital."

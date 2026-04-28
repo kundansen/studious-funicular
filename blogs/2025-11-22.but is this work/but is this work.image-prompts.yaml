@@ -1,0 +1,213 @@
+# Image Prompts for "But Is This Work?" Blog
+# Visual Theme: Liminal spaces, boundaries dissolving, dawn/dusk transitions
+# Style: East Asian ink wash painting (sumi-e) - soft edges, contemplative, slightly mysterious
+# Symbolic Elements: Bamboo (flexibility), birds in flight (freedom), bridges over mist (transition), mountain paths at twilight (journey without destination)
+# Generation Phase: Deferred - prompts only
+#
+# VISUAL GUARDRAILS (Oracle Prep Gate):
+# - NO brand icons or logos (Slack, Teams, Microsoft, Google, etc.)
+# - Notification accents: desaturated, non-specific colors (avoid platform-specific blues/greens)
+# - Technology elements: abstract/generic (no recognizable UI elements)
+# - Platform-agnostic: avoid Windows/Mac/mobile OS visual language
+# - Alt-text intent included for each image (accessibility requirement)
+
+---
+# HERO IMAGE
+image_name: "hero_twilight_threshold"
+art_style: "East Asian ink wash painting (sumi-e) with twilight blues and warm amber"
+aspect_ratio: "landscape"
+elements:
+  foreground_subject:
+    type: "Open laptop on desk at twilight, screen glow mixing with fading natural light"
+    description: "Laptop rendered in minimal black ink strokes, screen emitting soft blue-white glow. Window beside desk shows twilight sky - neither day nor night. Bamboo plant on desk bends slightly, caught between interior lamplight and exterior dusk."
+  environment:
+    setting: "Threshold space - home office at the liminal hour of day/night transition"
+    atmosphere: "Contemplative, suspended, neither working nor not-working, peaceful ambiguity"
+    background: "Soft gray washes suggesting room interior blending into window view, distant mountains or cityscape dissolving into mist"
+composition: "Asymmetrical with strong diagonal between screen light and window light, negative space emphasizing the in-between"
+emotional_tone: "Contemplative, suspended, peaceful ambiguity, gentle questioning"
+theme: "The liminal space where boundaries blur - is this work or life?"
+color_palette: "Sumi-e blacks and grays, twilight indigo-blue, warm amber screen glow, soft lavender sky"
+notes:
+  - "Capture the exact moment of transition - neither/both quality"
+  - "Screen glow should feel inviting, not ominous"
+  - "Bamboo as witness to the ambiguity, bending with flexibility"
+  - "Evoke the 11 PM coding session feeling - guilt meets joy"
+alt_text_intent: "East Asian ink wash painting showing laptop on desk at twilight, screen glow mixing with fading daylight through window, bamboo plant bending between interior and exterior light, evoking the liminal threshold between work and life"
+
+---
+# SECTION 1: THE QUESTION EMERGES
+image_name: "section_ai_play_work"
+art_style: "East Asian ink wash painting (sumi-e) with playful energy and soft edges"
+aspect_ratio: "landscape"
+elements:
+  foreground_subject:
+    type: "Code editor interface dissolving into abstract patterns, cursor blinking like a firefly"
+    description: "Terminal window rendered in precise black ink lines, but code text transforms into flowing calligraphic strokes that become abstract. Cursor blinks with warm golden light, suggesting both focus and play."
+  environment:
+    setting: "Abstract digital/physical hybrid space - desk elements fading into mist"
+    atmosphere: "Playful curiosity, flow state, boundaries between work and play dissolving"
+    background: "Coffee cup and notebook suggested in faint gray washes, clock face without hands, time meaningless"
+composition: "Centered on cursor, radiating outward into abstraction and mist"
+emotional_tone: "Joyful confusion, flow state, dopamine wave"
+theme: "When coding feels like playing - AI tools making work intrinsically motivating"
+color_palette: "Sumi-e foundation with golden cursor glow, soft digital blues, dissolving grays"
+notes:
+  - "Capture flow state - time and category disappear"
+  - "Code should feel poetic, not mechanical"
+  - "Playfulness without trivializing serious work"
+  - "Digital elements rendered with traditional technique creates intentional tension"
+alt_text_intent: "East Asian ink wash painting of code editor dissolving into abstract calligraphic patterns, golden cursor blinking like firefly, coffee cup and clock without hands fading into mist, representing flow state where work and play merge"
+
+---
+# SECTION 2: TRADITIONAL BOUNDARIES
+image_name: "section_cal_newport_wall"
+art_style: "East Asian ink wash painting (sumi-e) with hard edges softening into mist"
+aspect_ratio: "landscape"
+elements:
+  foreground_subject:
+    type: "Traditional office wall with clock showing 5:30, door ajar revealing twilight outside"
+    description: "Architectural elements in strong black ink - doorframe, wall, clock. But edges dissolve into mist. Door opens to reveal path disappearing into fog. Clock hands precise at 5:30, but clock face slightly fading."
+  environment:
+    setting: "Office doorway at day's official end, threshold between defined work and life"
+    atmosphere: "Orderly, clear boundaries, but impossibility of maintaining them suggested by dissolving edges"
+    background: "Office interior suggested in hard blacks, exterior path in soft grays, mist obscuring where path leads"
+composition: "Strong vertical doorframe creates boundary, but mist crosses it freely"
+emotional_tone: "Aspirational order conflicting with lived reality, gentle melancholy"
+theme: "Cal Newport's 5:30 PM boundary - clear in theory, dissolving in practice"
+color_palette: "Strong sumi-e blacks for architecture, dissolving grays for boundaries, twilight lavender for outside"
+notes:
+  - "Clock should be precise but slightly ghostly"
+  - "Door ajar suggests impossibility of full closure"
+  - "Path outside should feel inviting, not forbidding"
+  - "Respect Newport's wisdom while acknowledging modern complexity"
+alt_text_intent: "East Asian ink wash painting of office doorway at 5:30 PM, strong architectural lines dissolving at edges, door ajar revealing path into twilight mist, representing the aspiration of clear work boundaries conflicting with modern reality"
+
+---
+# SECTION 3: GRAY ZONES
+image_name: "section_commute_bridge"
+art_style: "East Asian ink wash painting (sumi-e) with journey and transition motifs"
+aspect_ratio: "landscape"
+elements:
+  foreground_subject:
+    type: "Arched bridge over misty water, traveler mid-crossing with earbuds/headphones"
+    description: "Traditional stone bridge rendered in confident black ink, but shrouded in mist. Single figure halfway across, headphones suggested by minimal lines. Neither arriving nor departing - suspended."
+  environment:
+    setting: "Traditional bridge over water, but could be ancient path or modern commute"
+    atmosphere: "Transitional, contemplative, neither here nor there"
+    background: "Water below in horizontal gray washes, distant shore barely visible in mist, birds in flight crossing between shores"
+composition: "Horizontal bridge creating tension between shores, figure at dead center emphasizing in-between state"
+emotional_tone: "Suspended, contemplative, productive-yet-not, meaningful ambiguity"
+theme: "Commute time, ERGs, learning - the gray zones that defy categorization"
+color_palette: "Sumi-e grays, water mist whites, subtle warm tones suggesting sunrise/sunset ambiguity"
+notes:
+  - "Bridge as perfect liminal metaphor - neither origin nor destination"
+  - "Figure should feel purposeful but uncategorizable"
+  - "Birds in flight suggest freedom from rigid boundaries"
+  - "Headphones/podcast listening as modern element in traditional scene"
+alt_text_intent: "East Asian ink wash painting of arched bridge over misty water, lone traveler with headphones at midpoint, neither shore visible, birds crossing between destinations, representing commute time and gray-zone activities that resist categorization"
+
+---
+# SECTION 4: ALWAYS-ON CULTURE
+image_name: "section_notifications_bamboo_wind"
+art_style: "East Asian ink wash painting (sumi-e) with dynamic movement and multiple focal points"
+aspect_ratio: "landscape"
+elements:
+  foreground_subject:
+    type: "Bamboo grove bending in wind, notification icons floating like leaves among stalks"
+    description: "Bamboo rendered in flowing black ink with multiple directional strokes suggesting constant movement. Small abstract shapes (notification bubbles) drift through like windblown leaves or fireflies. Bamboo bends but doesn't break."
+  environment:
+    setting: "Bamboo grove representing constant flow of digital interruptions"
+    atmosphere: "Dynamic, constant motion, resilience required, slight overwhelm with grace"
+    background: "Wind suggested by directional gray washes, no solid ground visible - floating state"
+composition: "Multiple bamboo stalks create rhythm, notifications scattered throughout creating visual tension"
+emotional_tone: "Resilient flexibility, gentle overwhelm, constant adaptation"
+theme: "Always-on culture - Teams, Slack, WhatsApp convergence, endless flow requiring bamboo-like flexibility"
+color_palette: "Dynamic blacks and grays, small pops of notification colors (blue, red, green) rendered as ink spots"
+notes:
+  - "Bamboo as symbol of flexibility without breaking"
+  - "Notifications should feel organic, not technological"
+  - "Movement without chaos - graceful bending"
+  - "Evoke both challenge and adaptability"
+  - "NO brand-specific notification designs - abstract colored dots only"
+alt_text_intent: "East Asian ink wash painting of bamboo grove bending in wind, abstract notification shapes (desaturated colored dots) floating like leaves among stalks, representing always-on culture requiring constant flexible adaptation without breaking"
+
+---
+# SECTION 5: AUTONOMY AND IDENTITY
+image_name: "section_mountain_path_choices"
+art_style: "East Asian ink wash painting (sumi-e) with multiple paths and soft ambiguity"
+aspect_ratio: "landscape"
+elements:
+  foreground_subject:
+    type: "Mountain path fork at twilight, both paths valid and inviting, neither clearly marked"
+    description: "Winding mountain path splitting into two or three directions, all disappearing into mist at different heights. Small cairn or waymarker at fork, but no directional signs. Footprints visible on all paths."
+  environment:
+    setting: "Mountain twilight, moment of choice without wrong answers"
+    atmosphere: "Contemplative autonomy, empowered uncertainty, peaceful with ambiguity"
+    background: "Mountain peaks in distant gray washes, twilight sky gradient from warm to cool, mist obscuring outcomes"
+composition: "Fork at lower third, paths radiating upward into mist, emphasis on journey over destination"
+emotional_tone: "Empowered, contemplative, peaceful with ambiguity, autonomous"
+theme: "Work as identity and autonomy - choosing your path when boundaries don't exist"
+color_palette: "Sumi-e grays, twilight gradient (warm amber to cool indigo), path stones in varied tones"
+notes:
+  - "No path should look 'wrong' - all valid choices"
+  - "Footprints on multiple paths suggest others have made different choices successfully"
+  - "Mist hides outcomes - focus on present choice, not future certainty"
+  - "Twilight emphasizes the liminal nature of the decision"
+alt_text_intent: "East Asian ink wash painting of mountain path forking into multiple directions at twilight, footprints visible on all paths, all disappearing into mist, representing autonomous choice about work identity when traditional boundaries don't exist"
+
+---
+# SECTION 6: NEW MENTAL MODEL / ACCEPTANCE
+image_name: "section_dawn_birds_liberation"
+art_style: "East Asian ink wash painting (sumi-e) with expansive sky and freedom motifs"
+aspect_ratio: "landscape"
+elements:
+  foreground_subject:
+    type: "Flock of birds in flight at dawn, moving in loose formation across opening sky"
+    description: "Multiple birds rendered in quick, confident black ink strokes - various heights and directions but harmonious. Dawn sky transitions from night to day in horizontal gradient. Birds neither gathered nor scattered - fluid formation."
+  environment:
+    setting: "Dawn sky, moment of transition from night to day, from constraint to possibility"
+    atmosphere: "Liberating, spacious, peaceful acceptance, collective freedom"
+    background: "Expansive sky in graduated gray washes, horizon line low, maximum vertical space, distant mountains barely visible"
+composition: "Birds scattered across upper two-thirds, creating upward movement and spaciousness, horizon low to emphasize sky"
+emotional_tone: "Liberation, peaceful acceptance, empowered autonomy, gentle joy"
+theme: "New mental model - freedom from rigid categories, acceptance of liminal space as valid"
+color_palette: "Dawn gradient (soft lavender to warm peach to clear gray), sumi-e blacks for birds, expansive whites"
+notes:
+  - "Birds should feel free but not chaotic - purposeful loose formation"
+  - "Dawn represents new understanding, fresh perspective"
+  - "Maximum negative space = freedom from constraint"
+  - "Neither rigid V-formation nor scattered confusion - the middle path"
+  - "Echo hero's twilight but inverted - darkness to light, question to acceptance"
+alt_text_intent: "East Asian ink wash painting of flock of birds in loose formation across expansive dawn sky, transitioning from night to day, maximum negative space, representing liberation from rigid work categories and peaceful acceptance of liminal space"
+
+---
+# CLOSING IMAGE (OPTIONAL)
+image_name: "closing_twilight_threshold_return"
+art_style: "East Asian ink wash painting (sumi-e) - echo of hero with peaceful resolution"
+aspect_ratio: "landscape"
+elements:
+  foreground_subject:
+    type: "Same laptop/window scene, but figure now visible in meditation posture beside desk"
+    description: "Nearly identical composition to hero, but human figure added in profile, sitting peacefully. Same twilight, same bamboo, same screen glow - but presence of peaceful human observer suggests acceptance rather than questioning."
+  environment:
+    setting: "Same threshold space as hero, but inhabited differently"
+    atmosphere: "Peaceful resolution, acceptance of ambiguity, grounded presence"
+    background: "Same window and mist elements, perhaps slightly clearer - not eliminating ambiguity but at peace with it"
+composition: "Echo hero asymmetry, human figure creates anchor point"
+emotional_tone: "Grounded, peaceful, resolved without solving, accepting ambiguity"
+theme: "Return to same liminal space with new perspective - question remains but anxiety dissolves"
+color_palette: "Same twilight palette as hero but slightly warmer, more golden acceptance"
+notes:
+  - "Visual bookend - return to beginning but transformed understanding"
+  - "Figure should be small, humble, not heroic - ordinary person at peace"
+  - "Don't resolve the ambiguity - resolve the anxiety about the ambiguity"
+  - "Alternative: Reuse hero exactly to show the constancy of the question itself"
+alt_text_intent: "East Asian ink wash painting echoing hero image - laptop at twilight, but human figure in peaceful meditation posture beside desk, same ambiguity but transformed relationship to it, representing acceptance without resolution"
+
+---
+# END OF PROMPTS
+# Total: 7 images (1 hero + 5 core sections + 1 optional closing)
+# Narrative Flow: Question emerges → Traditional boundaries → Gray zones → Always-on pressure → Autonomous choice → Liberation/acceptance
+# Visual Arc: Twilight ambiguity → Rigid boundaries dissolving → Journey metaphors → Dynamic flexibility → Path choices → Dawn freedom
+# Next Phase: Review against Creative Brief, then defer generation to Phase 6

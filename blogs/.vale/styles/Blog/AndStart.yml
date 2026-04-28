@@ -1,6 +1,7 @@
 extends: existence
-message: "Don't start a sentence with '%s' — rework the sentence to flow without the conjunction."
+message: "Don't start a sentence with '%s' - rework the sentence to flow without the conjunction."
 level: error
 scope: sentence
 tokens:
   - '^And '
+  - '^But '
